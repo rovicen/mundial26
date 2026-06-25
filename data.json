@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T18:05:43.981Z",
+  "lastUpdated": "2026-06-25T21:26:18.265Z",
   "fase": "Eliminatorias en curso",
   "grupos": [
     {
@@ -431,51 +431,51 @@
     },
     {
       "id": "E",
-      "state": "En curso",
+      "state": "Germany ya clasificado",
       "teams": [
         {
           "n": "Germany",
           "fl": "🇦🇤",
-          "pj": 2,
+          "pj": 3,
           "g": 2,
-          "e": 0,
+          "e": 1,
           "p": 0,
           "dg": "+7",
-          "pts": 6,
-          "st": ""
+          "pts": 7,
+          "st": "q"
         },
         {
           "n": "Ivory Coast",
           "fl": "🇢🇨",
-          "pj": 2,
-          "g": 1,
+          "pj": 3,
+          "g": 2,
           "e": 0,
           "p": 1,
-          "dg": "+0",
-          "pts": 3,
+          "dg": "+1",
+          "pts": 6,
           "st": ""
         },
         {
           "n": "Ecuador",
           "fl": "🇤🇢",
-          "pj": 2,
+          "pj": 3,
           "g": 0,
-          "e": 1,
+          "e": 2,
           "p": 1,
           "dg": "-1",
-          "pts": 1,
+          "pts": 2,
           "st": ""
         },
         {
           "n": "Curaçao",
           "fl": "🇢🇴",
-          "pj": 2,
+          "pj": 3,
           "g": 0,
           "e": 1,
-          "p": 1,
-          "dg": "-6",
+          "p": 2,
+          "dg": "-7",
           "pts": 1,
-          "st": ""
+          "st": "e"
         }
       ],
       "res": [
@@ -514,26 +514,27 @@
           "s": "0-0",
           "w": "e",
           "live": false
-        }
-      ],
-      "next": [
+        },
         {
           "a": "Ecuador",
           "fa": "🇤🇢",
           "b": "Germany",
           "fb": "🇦🇤",
-          "date": "2026-06-25",
-          "time": "20:00"
+          "s": "1-1",
+          "w": "",
+          "live": true
         },
         {
           "a": "Curaçao",
           "fa": "🇢🇴",
           "b": "Ivory Coast",
           "fb": "🇢🇨",
-          "date": "2026-06-25",
-          "time": "20:00"
+          "s": "0-1",
+          "w": "",
+          "live": true
         }
-      ]
+      ],
+      "next": []
     },
     {
       "id": "F",

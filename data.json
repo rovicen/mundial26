@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "24-06-2026, 11:23 p. m.",
+  "lastUpdated": "2026-06-25T03:33:46.039Z",
   "fase": "Eliminatorias en curso",
   "grupos": [
     {
       "id": "A",
-      "state": "Mexico ya clasificado, South Africa ya clasificado",
+      "state": "Mexico ya clasificado",
       "teams": [
         {
           "n": "Mexico",
@@ -26,7 +26,7 @@
           "p": 1,
           "dg": "-1",
           "pts": 4,
-          "st": "q"
+          "st": ""
         },
         {
           "n": "South Korea",
@@ -111,7 +111,7 @@
     },
     {
       "id": "B",
-      "state": "Switzerland ya clasificado, Canada ya clasificado",
+      "state": "Switzerland ya clasificado",
       "teams": [
         {
           "n": "Switzerland",
@@ -133,7 +133,7 @@
           "p": 1,
           "dg": "+5",
           "pts": 4,
-          "st": "q"
+          "st": ""
         },
         {
           "n": "Bosnia-Herzegovina",
@@ -218,7 +218,7 @@
     },
     {
       "id": "C",
-      "state": "Brazil ya clasificado, Morocco ya clasificado",
+      "state": "Brazil ya clasificado",
       "teams": [
         {
           "n": "Brazil",
@@ -240,7 +240,7 @@
           "p": 0,
           "dg": "+3",
           "pts": 7,
-          "st": "q"
+          "st": ""
         },
         {
           "n": "Scotland",
@@ -468,7 +468,7 @@
         },
         {
           "n": "Curaçao",
-          "fl": "🇢🇶",
+          "fl": "🇢🇴",
           "pj": 2,
           "g": 0,
           "e": 1,
@@ -483,7 +483,7 @@
           "a": "Germany",
           "fa": "🇦🇤",
           "b": "Curaçao",
-          "fb": "🇢🇶",
+          "fb": "🇢🇴",
           "s": "7-1",
           "w": "a",
           "live": false
@@ -510,7 +510,7 @@
           "a": "Ecuador",
           "fa": "🇤🇢",
           "b": "Curaçao",
-          "fb": "🇢🇶",
+          "fb": "🇢🇴",
           "s": "0-0",
           "w": "e",
           "live": false
@@ -527,7 +527,7 @@
         },
         {
           "a": "Curaçao",
-          "fa": "🇢🇶",
+          "fa": "🇢🇴",
           "b": "Ivory Coast",
           "fb": "🇢🇨",
           "date": "2026-06-25",
@@ -643,7 +643,7 @@
     },
     {
       "id": "G",
-      "state": "Mexico ya clasificado, South Africa ya clasificado",
+      "state": "Mexico ya clasificado",
       "teams": [
         {
           "n": "Mexico",
@@ -665,7 +665,7 @@
           "p": 1,
           "dg": "-1",
           "pts": 4,
-          "st": "q"
+          "st": ""
         },
         {
           "n": "South Korea",
@@ -810,7 +810,7 @@
           "a": "Saudi Arabia",
           "fa": "🇪🇲",
           "b": "Uruguay",
-          "fb": "🇴🇸",
+          "fb": "🇴🇱",
           "s": "1-1",
           "w": "e",
           "live": false
@@ -826,7 +826,7 @@
         },
         {
           "a": "Uruguay",
-          "fa": "🇴🇸",
+          "fa": "🇴🇱",
           "b": "Cape Verde Islands",
           "fb": "🇢🇵",
           "s": "2-2",
@@ -837,7 +837,7 @@
       "next": [
         {
           "a": "Uruguay",
-          "fa": "🇴🇸",
+          "fa": "🇴🇱",
           "b": "Spain",
           "fb": "🇤🇲",
           "date": "2026-06-27",
@@ -1284,9 +1284,9 @@
         "round": "LAST_16",
         "matches": [
           {
-            "a": "Por definir",
+            "a": null,
             "fa": "",
-            "b": "Por definir",
+            "b": null,
             "fb": "",
             "s": "",
             "w": "",
@@ -1295,9 +1295,9 @@
             "live": false
           },
           {
-            "a": "Por definir",
+            "a": null,
             "fa": "",
-            "b": "Por definir",
+            "b": null,
             "fb": "",
             "s": "",
             "w": "",
@@ -1306,9 +1306,9 @@
             "live": false
           },
           {
-            "a": "Por definir",
+            "a": null,
             "fa": "",
-            "b": "Por definir",
+            "b": null,
             "fb": "",
             "s": "",
             "w": "",
@@ -1317,9 +1317,9 @@
             "live": false
           },
           {
-            "a": "Por definir",
+            "a": null,
             "fa": "",
-            "b": "Por definir",
+            "b": null,
             "fb": "",
             "s": "",
             "w": "",
@@ -1328,9 +1328,9 @@
             "live": false
           },
           {
-            "a": "Por definir",
+            "a": null,
             "fa": "",
-            "b": "Por definir",
+            "b": null,
             "fb": "",
             "s": "",
             "w": "",
@@ -1339,9 +1339,9 @@
             "live": false
           },
           {
-            "a": "Por definir",
+            "a": null,
             "fa": "",
-            "b": "Por definir",
+            "b": null,
             "fb": "",
             "s": "",
             "w": "",
@@ -1350,9 +1350,9 @@
             "live": false
           },
           {
-            "a": "Por definir",
+            "a": null,
             "fa": "",
-            "b": "Por definir",
+            "b": null,
             "fb": "",
             "s": "",
             "w": "",
@@ -1361,9 +1361,9 @@
             "live": false
           },
           {
-            "a": "Por definir",
+            "a": null,
             "fa": "",
-            "b": "Por definir",
+            "b": null,
             "fb": "",
             "s": "",
             "w": "",
@@ -1371,16 +1371,15 @@
             "time": "20:00",
             "live": false
           }
-        ],
-        "dates": ""
+        ]
       },
       {
         "round": "QUARTER_FINALS",
         "matches": [
           {
-            "a": "Por definir",
+            "a": null,
             "fa": "",
-            "b": "Por definir",
+            "b": null,
             "fb": "",
             "s": "",
             "w": "",
@@ -1389,9 +1388,9 @@
             "live": false
           },
           {
-            "a": "Por definir",
+            "a": null,
             "fa": "",
-            "b": "Por definir",
+            "b": null,
             "fb": "",
             "s": "",
             "w": "",
@@ -1400,9 +1399,9 @@
             "live": false
           },
           {
-            "a": "Por definir",
+            "a": null,
             "fa": "",
-            "b": "Por definir",
+            "b": null,
             "fb": "",
             "s": "",
             "w": "",
@@ -1411,9 +1410,9 @@
             "live": false
           },
           {
-            "a": "Por definir",
+            "a": null,
             "fa": "",
-            "b": "Por definir",
+            "b": null,
             "fb": "",
             "s": "",
             "w": "",
@@ -1421,16 +1420,15 @@
             "time": "01:00",
             "live": false
           }
-        ],
-        "dates": ""
+        ]
       },
       {
         "round": "SEMI_FINALS",
         "matches": [
           {
-            "a": "Por definir",
+            "a": null,
             "fa": "",
-            "b": "Por definir",
+            "b": null,
             "fb": "",
             "s": "",
             "w": "",
@@ -1439,9 +1437,9 @@
             "live": false
           },
           {
-            "a": "Por definir",
+            "a": null,
             "fa": "",
-            "b": "Por definir",
+            "b": null,
             "fb": "",
             "s": "",
             "w": "",
@@ -1449,16 +1447,15 @@
             "time": "19:00",
             "live": false
           }
-        ],
-        "dates": ""
+        ]
       },
       {
         "round": "THIRD_PLACE",
         "matches": [
           {
-            "a": "Por definir",
+            "a": null,
             "fa": "",
-            "b": "Por definir",
+            "b": null,
             "fb": "",
             "s": "",
             "w": "",
@@ -1466,16 +1463,15 @@
             "time": "21:00",
             "live": false
           }
-        ],
-        "dates": ""
+        ]
       },
       {
         "round": "FINAL",
         "matches": [
           {
-            "a": "Por definir",
+            "a": null,
             "fa": "",
-            "b": "Por definir",
+            "b": null,
             "fb": "",
             "s": "",
             "w": "",
@@ -1483,15 +1479,14 @@
             "time": "19:00",
             "live": false
           }
-        ],
-        "dates": ""
+        ]
       }
     ],
     "d16": [
       {
-        "a": "Por definir",
+        "a": null,
         "fa": "",
-        "b": "Por definir",
+        "b": null,
         "fb": "",
         "s": "",
         "w": "",
@@ -1500,9 +1495,9 @@
         "live": false
       },
       {
-        "a": "Por definir",
+        "a": null,
         "fa": "",
-        "b": "Por definir",
+        "b": null,
         "fb": "",
         "s": "",
         "w": "",
@@ -1511,9 +1506,9 @@
         "live": false
       },
       {
-        "a": "Por definir",
+        "a": null,
         "fa": "",
-        "b": "Por definir",
+        "b": null,
         "fb": "",
         "s": "",
         "w": "",
@@ -1522,9 +1517,9 @@
         "live": false
       },
       {
-        "a": "Por definir",
+        "a": null,
         "fa": "",
-        "b": "Por definir",
+        "b": null,
         "fb": "",
         "s": "",
         "w": "",
@@ -1533,9 +1528,9 @@
         "live": false
       },
       {
-        "a": "Por definir",
+        "a": null,
         "fa": "",
-        "b": "Por definir",
+        "b": null,
         "fb": "",
         "s": "",
         "w": "",
@@ -1544,9 +1539,9 @@
         "live": false
       },
       {
-        "a": "Por definir",
+        "a": null,
         "fa": "",
-        "b": "Por definir",
+        "b": null,
         "fb": "",
         "s": "",
         "w": "",
@@ -1555,9 +1550,9 @@
         "live": false
       },
       {
-        "a": "Por definir",
+        "a": null,
         "fa": "",
-        "b": "Por definir",
+        "b": null,
         "fb": "",
         "s": "",
         "w": "",
@@ -1566,9 +1561,9 @@
         "live": false
       },
       {
-        "a": "Por definir",
+        "a": null,
         "fa": "",
-        "b": "Por definir",
+        "b": null,
         "fb": "",
         "s": "",
         "w": "",
@@ -1579,9 +1574,9 @@
     ],
     "oct": [
       {
-        "a": "Por definir",
+        "a": null,
         "fa": "",
-        "b": "Por definir",
+        "b": null,
         "fb": "",
         "s": "",
         "w": "",
@@ -1590,9 +1585,9 @@
         "live": false
       },
       {
-        "a": "Por definir",
+        "a": null,
         "fa": "",
-        "b": "Por definir",
+        "b": null,
         "fb": "",
         "s": "",
         "w": "",
@@ -1601,9 +1596,9 @@
         "live": false
       },
       {
-        "a": "Por definir",
+        "a": null,
         "fa": "",
-        "b": "Por definir",
+        "b": null,
         "fb": "",
         "s": "",
         "w": "",
@@ -1612,9 +1607,9 @@
         "live": false
       },
       {
-        "a": "Por definir",
+        "a": null,
         "fa": "",
-        "b": "Por definir",
+        "b": null,
         "fb": "",
         "s": "",
         "w": "",
@@ -1626,9 +1621,9 @@
     "ccua": [],
     "sem": [
       {
-        "a": "Por definir",
+        "a": null,
         "fa": "",
-        "b": "Por definir",
+        "b": null,
         "fb": "",
         "s": "",
         "w": "",
@@ -1637,9 +1632,9 @@
         "live": false
       },
       {
-        "a": "Por definir",
+        "a": null,
         "fa": "",
-        "b": "Por definir",
+        "b": null,
         "fb": "",
         "s": "",
         "w": "",
@@ -1649,9 +1644,9 @@
       }
     ],
     "fin": {
-      "a": "Por definir",
+      "a": null,
       "fa": "",
-      "b": "Por definir",
+      "b": null,
       "fb": "",
       "s": "",
       "w": "",
@@ -1660,9 +1655,9 @@
       "live": false
     },
     "ter": {
-      "a": "Por definir",
+      "a": null,
       "fa": "",
-      "b": "Por definir",
+      "b": null,
       "fb": "",
       "s": "",
       "w": "",

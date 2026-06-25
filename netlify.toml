@@ -1,7 +1,16 @@
+# Configuración de Netlify — sitio estático, sin build.
 [build]
   publish = "."
+  command = ""
 
+# data.json se actualiza cada día: que no quede cacheado.
 [[headers]]
   for = "/data.json"
   [headers.values]
-    Cache-Control = "no-cache, no-store, must-revalidate"
+    Cache-Control = "no-cache"
+
+# El service worker tampoco debe cachearse de forma agresiva.
+[[headers]]
+  for = "/sw.js"
+  [headers.values]
+    Cache-Control = "no-cache"

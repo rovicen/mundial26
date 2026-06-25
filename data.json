@@ -1,2918 +1,1537 @@
 {
-  "actualizadoEn": "24/06/2026, 08:19 p.m.",
-  "totalPartidos": 0,
-  "partidos": [
-    {
-      "id": 537327,
-      "utcDate": "2026-06-11T19:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 769,
-        "name": "Mexico",
-        "shortName": "Mexico"
-      },
-      "awayTeam": {
-        "id": 774,
-        "name": "South Africa",
-        "shortName": "South Africa"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 2,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537328,
-      "utcDate": "2026-06-12T02:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 772,
-        "name": "South Korea",
-        "shortName": "Korea Republic"
-      },
-      "awayTeam": {
-        "id": 798,
-        "name": "Czechia",
-        "shortName": "Czechia"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 2,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537333,
-      "utcDate": "2026-06-12T19:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 828,
-        "name": "Canada",
-        "shortName": "Canada"
-      },
-      "awayTeam": {
-        "id": 1060,
-        "name": "Bosnia-Herzegovina",
-        "shortName": "Bosnia-H."
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 1
-        }
-      }
-    },
-    {
-      "id": 537345,
-      "utcDate": "2026-06-13T01:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 771,
-        "name": "United States",
-        "shortName": "USA"
-      },
-      "awayTeam": {
-        "id": 761,
-        "name": "Paraguay",
-        "shortName": "Paraguay"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 4,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 3,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537334,
-      "utcDate": "2026-06-13T19:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 8030,
-        "name": "Qatar",
-        "shortName": "Qatar"
-      },
-      "awayTeam": {
-        "id": 788,
-        "name": "Switzerland",
-        "shortName": "Switzerland"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 1
-        }
-      }
-    },
-    {
-      "id": 537339,
-      "utcDate": "2026-06-13T22:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 764,
-        "name": "Brazil",
-        "shortName": "Brazil"
-      },
-      "awayTeam": {
-        "id": 815,
-        "name": "Morocco",
-        "shortName": "Morocco"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 1
-        }
-      }
-    },
-    {
-      "id": 537340,
-      "utcDate": "2026-06-14T01:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 836,
-        "name": "Haiti",
-        "shortName": "Haiti"
-      },
-      "awayTeam": {
-        "id": 8873,
-        "name": "Scotland",
-        "shortName": "Scotland"
-      },
-      "score": {
-        "winner": "AWAY_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 0,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 1
-        }
-      }
-    },
-    {
-      "id": 537346,
-      "utcDate": "2026-06-14T04:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 779,
-        "name": "Australia",
-        "shortName": "Australia"
-      },
-      "awayTeam": {
-        "id": 803,
-        "name": "Turkey",
-        "shortName": "Turkey"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 2,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537351,
-      "utcDate": "2026-06-14T17:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 759,
-        "name": "Germany",
-        "shortName": "Germany"
-      },
-      "awayTeam": {
-        "id": 9460,
-        "name": "Curaçao",
-        "shortName": "Curaçao"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 7,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 3,
-          "away": 1
-        }
-      }
-    },
-    {
-      "id": 537357,
-      "utcDate": "2026-06-14T20:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 8601,
-        "name": "Netherlands",
-        "shortName": "Netherlands"
-      },
-      "awayTeam": {
-        "id": 766,
-        "name": "Japan",
-        "shortName": "Japan"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 2,
-          "away": 2
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537352,
-      "utcDate": "2026-06-14T23:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 1935,
-        "name": "Ivory Coast",
-        "shortName": "Ivory Coast"
-      },
-      "awayTeam": {
-        "id": 791,
-        "name": "Ecuador",
-        "shortName": "Ecuador"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537358,
-      "utcDate": "2026-06-15T02:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 792,
-        "name": "Sweden",
-        "shortName": "Sweden"
-      },
-      "awayTeam": {
-        "id": 802,
-        "name": "Tunisia",
-        "shortName": "Tunisia"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 5,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 2,
-          "away": 1
-        }
-      }
-    },
-    {
-      "id": 537369,
-      "utcDate": "2026-06-15T16:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 760,
-        "name": "Spain",
-        "shortName": "Spain"
-      },
-      "awayTeam": {
-        "id": 1930,
-        "name": "Cape Verde Islands",
-        "shortName": "Cape Verde"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 0,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537363,
-      "utcDate": "2026-06-15T19:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 805,
-        "name": "Belgium",
-        "shortName": "Belgium"
-      },
-      "awayTeam": {
-        "id": 825,
-        "name": "Egypt",
-        "shortName": "Egypt"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 1
-        }
-      }
-    },
-    {
-      "id": 537370,
-      "utcDate": "2026-06-15T22:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 801,
-        "name": "Saudi Arabia",
-        "shortName": "Saudi Arabia"
-      },
-      "awayTeam": {
-        "id": 758,
-        "name": "Uruguay",
-        "shortName": "Uruguay"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537364,
-      "utcDate": "2026-06-16T01:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 840,
-        "name": "Iran",
-        "shortName": "Iran"
-      },
-      "awayTeam": {
-        "id": 783,
-        "name": "New Zealand",
-        "shortName": "New Zealand"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 2,
-          "away": 2
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 1
-        }
-      }
-    },
-    {
-      "id": 537391,
-      "utcDate": "2026-06-16T19:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 773,
-        "name": "France",
-        "shortName": "France"
-      },
-      "awayTeam": {
-        "id": 804,
-        "name": "Senegal",
-        "shortName": "Senegal"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 3,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537392,
-      "utcDate": "2026-06-16T22:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 8062,
-        "name": "Iraq",
-        "shortName": "Iraq"
-      },
-      "awayTeam": {
-        "id": 8872,
-        "name": "Norway",
-        "shortName": "Norway"
-      },
-      "score": {
-        "winner": "AWAY_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 4
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 2
-        }
-      }
-    },
-    {
-      "id": 537397,
-      "utcDate": "2026-06-17T01:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 762,
-        "name": "Argentina",
-        "shortName": "Argentina"
-      },
-      "awayTeam": {
-        "id": 778,
-        "name": "Algeria",
-        "shortName": "Algeria"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 3,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537398,
-      "utcDate": "2026-06-17T04:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 816,
-        "name": "Austria",
-        "shortName": "Austria"
-      },
-      "awayTeam": {
-        "id": 8049,
-        "name": "Jordan",
-        "shortName": "Jordan"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 3,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537403,
-      "utcDate": "2026-06-17T17:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 765,
-        "name": "Portugal",
-        "shortName": "Portugal"
-      },
-      "awayTeam": {
-        "id": 1934,
-        "name": "Congo DR",
-        "shortName": "Congo DR"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 1
-        }
-      }
-    },
-    {
-      "id": 537409,
-      "utcDate": "2026-06-17T20:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 770,
-        "name": "England",
-        "shortName": "England"
-      },
-      "awayTeam": {
-        "id": 799,
-        "name": "Croatia",
-        "shortName": "Croatia"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 4,
-          "away": 2
-        },
-        "halfTime": {
-          "home": 2,
-          "away": 2
-        }
-      }
-    },
-    {
-      "id": 537410,
-      "utcDate": "2026-06-17T23:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 763,
-        "name": "Ghana",
-        "shortName": "Ghana"
-      },
-      "awayTeam": {
-        "id": 1836,
-        "name": "Panama",
-        "shortName": "Panama"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537404,
-      "utcDate": "2026-06-18T02:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 8070,
-        "name": "Uzbekistan",
-        "shortName": "Uzbekistan"
-      },
-      "awayTeam": {
-        "id": 818,
-        "name": "Colombia",
-        "shortName": "Colombia"
-      },
-      "score": {
-        "winner": "AWAY_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 3
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 1
-        }
-      }
-    },
-    {
-      "id": 537329,
-      "utcDate": "2026-06-18T16:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 798,
-        "name": "Czechia",
-        "shortName": "Czechia"
-      },
-      "awayTeam": {
-        "id": 774,
-        "name": "South Africa",
-        "shortName": "South Africa"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537335,
-      "utcDate": "2026-06-18T19:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 788,
-        "name": "Switzerland",
-        "shortName": "Switzerland"
-      },
-      "awayTeam": {
-        "id": 1060,
-        "name": "Bosnia-Herzegovina",
-        "shortName": "Bosnia-H."
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 4,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537336,
-      "utcDate": "2026-06-18T22:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 828,
-        "name": "Canada",
-        "shortName": "Canada"
-      },
-      "awayTeam": {
-        "id": 8030,
-        "name": "Qatar",
-        "shortName": "Qatar"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 6,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 3,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537330,
-      "utcDate": "2026-06-19T01:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 769,
-        "name": "Mexico",
-        "shortName": "Mexico"
-      },
-      "awayTeam": {
-        "id": 772,
-        "name": "South Korea",
-        "shortName": "Korea Republic"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537348,
-      "utcDate": "2026-06-19T19:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 771,
-        "name": "United States",
-        "shortName": "USA"
-      },
-      "awayTeam": {
-        "id": 779,
-        "name": "Australia",
-        "shortName": "Australia"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 2,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 2,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537342,
-      "utcDate": "2026-06-19T22:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 8873,
-        "name": "Scotland",
-        "shortName": "Scotland"
-      },
-      "awayTeam": {
-        "id": 815,
-        "name": "Morocco",
-        "shortName": "Morocco"
-      },
-      "score": {
-        "winner": "AWAY_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 0,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 1
-        }
-      }
-    },
-    {
-      "id": 537341,
-      "utcDate": "2026-06-20T00:30:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 764,
-        "name": "Brazil",
-        "shortName": "Brazil"
-      },
-      "awayTeam": {
-        "id": 836,
-        "name": "Haiti",
-        "shortName": "Haiti"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 3,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 3,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537347,
-      "utcDate": "2026-06-20T03:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 803,
-        "name": "Turkey",
-        "shortName": "Turkey"
-      },
-      "awayTeam": {
-        "id": 761,
-        "name": "Paraguay",
-        "shortName": "Paraguay"
-      },
-      "score": {
-        "winner": "AWAY_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 0,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 1
-        }
-      }
-    },
-    {
-      "id": 537359,
-      "utcDate": "2026-06-20T17:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 8601,
-        "name": "Netherlands",
-        "shortName": "Netherlands"
-      },
-      "awayTeam": {
-        "id": 792,
-        "name": "Sweden",
-        "shortName": "Sweden"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 5,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 2,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537353,
-      "utcDate": "2026-06-20T20:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 759,
-        "name": "Germany",
-        "shortName": "Germany"
-      },
-      "awayTeam": {
-        "id": 1935,
-        "name": "Ivory Coast",
-        "shortName": "Ivory Coast"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 2,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 1
-        }
-      }
-    },
-    {
-      "id": 537354,
-      "utcDate": "2026-06-21T00:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 791,
-        "name": "Ecuador",
-        "shortName": "Ecuador"
-      },
-      "awayTeam": {
-        "id": 9460,
-        "name": "Curaçao",
-        "shortName": "Curaçao"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 0,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537360,
-      "utcDate": "2026-06-21T04:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 802,
-        "name": "Tunisia",
-        "shortName": "Tunisia"
-      },
-      "awayTeam": {
-        "id": 766,
-        "name": "Japan",
-        "shortName": "Japan"
-      },
-      "score": {
-        "winner": "AWAY_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 0,
-          "away": 4
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 2
-        }
-      }
-    },
-    {
-      "id": 537371,
-      "utcDate": "2026-06-21T16:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 760,
-        "name": "Spain",
-        "shortName": "Spain"
-      },
-      "awayTeam": {
-        "id": 801,
-        "name": "Saudi Arabia",
-        "shortName": "Saudi Arabia"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 4,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 3,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537365,
-      "utcDate": "2026-06-21T19:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 805,
-        "name": "Belgium",
-        "shortName": "Belgium"
-      },
-      "awayTeam": {
-        "id": 840,
-        "name": "Iran",
-        "shortName": "Iran"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 0,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537372,
-      "utcDate": "2026-06-21T22:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 758,
-        "name": "Uruguay",
-        "shortName": "Uruguay"
-      },
-      "awayTeam": {
-        "id": 1930,
-        "name": "Cape Verde Islands",
-        "shortName": "Cape Verde"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 2,
-          "away": 2
-        },
-        "halfTime": {
-          "home": 2,
-          "away": 1
-        }
-      }
-    },
-    {
-      "id": 537366,
-      "utcDate": "2026-06-22T01:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 783,
-        "name": "New Zealand",
-        "shortName": "New Zealand"
-      },
-      "awayTeam": {
-        "id": 825,
-        "name": "Egypt",
-        "shortName": "Egypt"
-      },
-      "score": {
-        "winner": "AWAY_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 3
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537399,
-      "utcDate": "2026-06-22T17:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 762,
-        "name": "Argentina",
-        "shortName": "Argentina"
-      },
-      "awayTeam": {
-        "id": 816,
-        "name": "Austria",
-        "shortName": "Austria"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 2,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537393,
-      "utcDate": "2026-06-22T21:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 773,
-        "name": "France",
-        "shortName": "France"
-      },
-      "awayTeam": {
-        "id": 8062,
-        "name": "Iraq",
-        "shortName": "Iraq"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 3,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537394,
-      "utcDate": "2026-06-23T00:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 8872,
-        "name": "Norway",
-        "shortName": "Norway"
-      },
-      "awayTeam": {
-        "id": 804,
-        "name": "Senegal",
-        "shortName": "Senegal"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 3,
-          "away": 2
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537400,
-      "utcDate": "2026-06-23T03:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 8049,
-        "name": "Jordan",
-        "shortName": "Jordan"
-      },
-      "awayTeam": {
-        "id": 778,
-        "name": "Algeria",
-        "shortName": "Algeria"
-      },
-      "score": {
-        "winner": "AWAY_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 2
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537405,
-      "utcDate": "2026-06-23T17:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 765,
-        "name": "Portugal",
-        "shortName": "Portugal"
-      },
-      "awayTeam": {
-        "id": 8070,
-        "name": "Uzbekistan",
-        "shortName": "Uzbekistan"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 5,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 3,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537411,
-      "utcDate": "2026-06-23T20:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 770,
-        "name": "England",
-        "shortName": "England"
-      },
-      "awayTeam": {
-        "id": 763,
-        "name": "Ghana",
-        "shortName": "Ghana"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 0,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537412,
-      "utcDate": "2026-06-23T23:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 1836,
-        "name": "Panama",
-        "shortName": "Panama"
-      },
-      "awayTeam": {
-        "id": 799,
-        "name": "Croatia",
-        "shortName": "Croatia"
-      },
-      "score": {
-        "winner": "AWAY_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 0,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537406,
-      "utcDate": "2026-06-24T02:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 818,
-        "name": "Colombia",
-        "shortName": "Colombia"
-      },
-      "awayTeam": {
-        "id": 1934,
-        "name": "Congo DR",
-        "shortName": "Congo DR"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537337,
-      "utcDate": "2026-06-24T19:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 788,
-        "name": "Switzerland",
-        "shortName": "Switzerland"
-      },
-      "awayTeam": {
-        "id": 828,
-        "name": "Canada",
-        "shortName": "Canada"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 2,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537338,
-      "utcDate": "2026-06-24T19:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 1060,
-        "name": "Bosnia-Herzegovina",
-        "shortName": "Bosnia-H."
-      },
-      "awayTeam": {
-        "id": 8030,
-        "name": "Qatar",
-        "shortName": "Qatar"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 3,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 2,
-          "away": 1
-        }
-      }
-    },
-    {
-      "id": 537344,
-      "utcDate": "2026-06-24T22:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 815,
-        "name": "Morocco",
-        "shortName": "Morocco"
-      },
-      "awayTeam": {
-        "id": 836,
-        "name": "Haiti",
-        "shortName": "Haiti"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 4,
-          "away": 2
-        },
-        "halfTime": {
-          "home": 2,
-          "away": 2
-        }
-      }
-    },
-    {
-      "id": 537343,
-      "utcDate": "2026-06-24T22:00:00Z",
-      "status": "FINISHED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 8873,
-        "name": "Scotland",
-        "shortName": "Scotland"
-      },
-      "awayTeam": {
-        "id": 764,
-        "name": "Brazil",
-        "shortName": "Brazil"
-      },
-      "score": {
-        "winner": "AWAY_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 0,
-          "away": 3
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 2
-        }
-      }
-    },
-    {
-      "id": 537331,
-      "utcDate": "2026-06-25T01:00:00Z",
-      "status": "IN_PLAY",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 798,
-        "name": "Czechia",
-        "shortName": "Czechia"
-      },
-      "awayTeam": {
-        "id": 769,
-        "name": "Mexico",
-        "shortName": "Mexico"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 0,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537332,
-      "utcDate": "2026-06-25T01:00:00Z",
-      "status": "IN_PLAY",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 774,
-        "name": "South Africa",
-        "shortName": "South Africa"
-      },
-      "awayTeam": {
-        "id": 772,
-        "name": "South Korea",
-        "shortName": "Korea Republic"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 0,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 0
-        }
-      }
-    },
-    {
-      "id": 537355,
-      "utcDate": "2026-06-25T20:00:00Z",
-      "status": "TIMED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 791,
-        "name": "Ecuador",
-        "shortName": "Ecuador"
-      },
-      "awayTeam": {
-        "id": 759,
-        "name": "Germany",
-        "shortName": "Germany"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537356,
-      "utcDate": "2026-06-25T20:00:00Z",
-      "status": "TIMED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 9460,
-        "name": "Curaçao",
-        "shortName": "Curaçao"
-      },
-      "awayTeam": {
-        "id": 1935,
-        "name": "Ivory Coast",
-        "shortName": "Ivory Coast"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537361,
-      "utcDate": "2026-06-25T23:00:00Z",
-      "status": "TIMED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 802,
-        "name": "Tunisia",
-        "shortName": "Tunisia"
-      },
-      "awayTeam": {
-        "id": 8601,
-        "name": "Netherlands",
-        "shortName": "Netherlands"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537362,
-      "utcDate": "2026-06-25T23:00:00Z",
-      "status": "TIMED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 766,
-        "name": "Japan",
-        "shortName": "Japan"
-      },
-      "awayTeam": {
-        "id": 792,
-        "name": "Sweden",
-        "shortName": "Sweden"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537349,
-      "utcDate": "2026-06-26T02:00:00Z",
-      "status": "TIMED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 803,
-        "name": "Turkey",
-        "shortName": "Turkey"
-      },
-      "awayTeam": {
-        "id": 771,
-        "name": "United States",
-        "shortName": "USA"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537350,
-      "utcDate": "2026-06-26T02:00:00Z",
-      "status": "TIMED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 761,
-        "name": "Paraguay",
-        "shortName": "Paraguay"
-      },
-      "awayTeam": {
-        "id": 779,
-        "name": "Australia",
-        "shortName": "Australia"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537395,
-      "utcDate": "2026-06-26T19:00:00Z",
-      "status": "TIMED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 8872,
-        "name": "Norway",
-        "shortName": "Norway"
-      },
-      "awayTeam": {
-        "id": 773,
-        "name": "France",
-        "shortName": "France"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537396,
-      "utcDate": "2026-06-26T19:00:00Z",
-      "status": "TIMED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 804,
-        "name": "Senegal",
-        "shortName": "Senegal"
-      },
-      "awayTeam": {
-        "id": 8062,
-        "name": "Iraq",
-        "shortName": "Iraq"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537373,
-      "utcDate": "2026-06-27T00:00:00Z",
-      "status": "TIMED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 758,
-        "name": "Uruguay",
-        "shortName": "Uruguay"
-      },
-      "awayTeam": {
-        "id": 760,
-        "name": "Spain",
-        "shortName": "Spain"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537374,
-      "utcDate": "2026-06-27T00:00:00Z",
-      "status": "TIMED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 1930,
-        "name": "Cape Verde Islands",
-        "shortName": "Cape Verde"
-      },
-      "awayTeam": {
-        "id": 801,
-        "name": "Saudi Arabia",
-        "shortName": "Saudi Arabia"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537367,
-      "utcDate": "2026-06-27T03:00:00Z",
-      "status": "TIMED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 783,
-        "name": "New Zealand",
-        "shortName": "New Zealand"
-      },
-      "awayTeam": {
-        "id": 805,
-        "name": "Belgium",
-        "shortName": "Belgium"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537368,
-      "utcDate": "2026-06-27T03:00:00Z",
-      "status": "TIMED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 825,
-        "name": "Egypt",
-        "shortName": "Egypt"
-      },
-      "awayTeam": {
-        "id": 840,
-        "name": "Iran",
-        "shortName": "Iran"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537413,
-      "utcDate": "2026-06-27T21:00:00Z",
-      "status": "TIMED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 1836,
-        "name": "Panama",
-        "shortName": "Panama"
-      },
-      "awayTeam": {
-        "id": 770,
-        "name": "England",
-        "shortName": "England"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537414,
-      "utcDate": "2026-06-27T21:00:00Z",
-      "status": "TIMED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 799,
-        "name": "Croatia",
-        "shortName": "Croatia"
-      },
-      "awayTeam": {
-        "id": 763,
-        "name": "Ghana",
-        "shortName": "Ghana"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537407,
-      "utcDate": "2026-06-27T23:30:00Z",
-      "status": "TIMED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 818,
-        "name": "Colombia",
-        "shortName": "Colombia"
-      },
-      "awayTeam": {
-        "id": 765,
-        "name": "Portugal",
-        "shortName": "Portugal"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537408,
-      "utcDate": "2026-06-27T23:30:00Z",
-      "status": "TIMED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 1934,
-        "name": "Congo DR",
-        "shortName": "Congo DR"
-      },
-      "awayTeam": {
-        "id": 8070,
-        "name": "Uzbekistan",
-        "shortName": "Uzbekistan"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537401,
-      "utcDate": "2026-06-28T02:00:00Z",
-      "status": "TIMED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 8049,
-        "name": "Jordan",
-        "shortName": "Jordan"
-      },
-      "awayTeam": {
-        "id": 762,
-        "name": "Argentina",
-        "shortName": "Argentina"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537402,
-      "utcDate": "2026-06-28T02:00:00Z",
-      "status": "TIMED",
-      "stage": "GROUP_STAGE",
-      "homeTeam": {
-        "id": 778,
-        "name": "Algeria",
-        "shortName": "Algeria"
-      },
-      "awayTeam": {
-        "id": 816,
-        "name": "Austria",
-        "shortName": "Austria"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537417,
-      "utcDate": "2026-06-28T19:00:00Z",
-      "status": "TIMED",
-      "stage": "LAST_32",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537423,
-      "utcDate": "2026-06-29T17:00:00Z",
-      "status": "TIMED",
-      "stage": "LAST_32",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537415,
-      "utcDate": "2026-06-29T20:30:00Z",
-      "status": "TIMED",
-      "stage": "LAST_32",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537418,
-      "utcDate": "2026-06-30T01:00:00Z",
-      "status": "TIMED",
-      "stage": "LAST_32",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537424,
-      "utcDate": "2026-06-30T17:00:00Z",
-      "status": "TIMED",
-      "stage": "LAST_32",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537416,
-      "utcDate": "2026-06-30T21:00:00Z",
-      "status": "TIMED",
-      "stage": "LAST_32",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537425,
-      "utcDate": "2026-07-01T01:00:00Z",
-      "status": "TIMED",
-      "stage": "LAST_32",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537426,
-      "utcDate": "2026-07-01T16:00:00Z",
-      "status": "TIMED",
-      "stage": "LAST_32",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537422,
-      "utcDate": "2026-07-01T20:00:00Z",
-      "status": "TIMED",
-      "stage": "LAST_32",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537421,
-      "utcDate": "2026-07-02T00:00:00Z",
-      "status": "TIMED",
-      "stage": "LAST_32",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537420,
-      "utcDate": "2026-07-02T19:00:00Z",
-      "status": "TIMED",
-      "stage": "LAST_32",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537419,
-      "utcDate": "2026-07-02T23:00:00Z",
-      "status": "TIMED",
-      "stage": "LAST_32",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537429,
-      "utcDate": "2026-07-03T03:00:00Z",
-      "status": "TIMED",
-      "stage": "LAST_32",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537428,
-      "utcDate": "2026-07-03T18:00:00Z",
-      "status": "TIMED",
-      "stage": "LAST_32",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537427,
-      "utcDate": "2026-07-03T22:00:00Z",
-      "status": "TIMED",
-      "stage": "LAST_32",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537430,
-      "utcDate": "2026-07-04T01:30:00Z",
-      "status": "TIMED",
-      "stage": "LAST_32",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537376,
-      "utcDate": "2026-07-04T17:00:00Z",
-      "status": "TIMED",
-      "stage": "LAST_16",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537375,
-      "utcDate": "2026-07-04T21:00:00Z",
-      "status": "TIMED",
-      "stage": "LAST_16",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537377,
-      "utcDate": "2026-07-05T20:00:00Z",
-      "status": "TIMED",
-      "stage": "LAST_16",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537378,
-      "utcDate": "2026-07-06T00:00:00Z",
-      "status": "TIMED",
-      "stage": "LAST_16",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537379,
-      "utcDate": "2026-07-06T19:00:00Z",
-      "status": "TIMED",
-      "stage": "LAST_16",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537380,
-      "utcDate": "2026-07-07T00:00:00Z",
-      "status": "TIMED",
-      "stage": "LAST_16",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537381,
-      "utcDate": "2026-07-07T16:00:00Z",
-      "status": "TIMED",
-      "stage": "LAST_16",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537382,
-      "utcDate": "2026-07-07T20:00:00Z",
-      "status": "TIMED",
-      "stage": "LAST_16",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537383,
-      "utcDate": "2026-07-09T20:00:00Z",
-      "status": "TIMED",
-      "stage": "QUARTER_FINALS",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537384,
-      "utcDate": "2026-07-10T19:00:00Z",
-      "status": "TIMED",
-      "stage": "QUARTER_FINALS",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537385,
-      "utcDate": "2026-07-11T21:00:00Z",
-      "status": "TIMED",
-      "stage": "QUARTER_FINALS",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537386,
-      "utcDate": "2026-07-12T01:00:00Z",
-      "status": "TIMED",
-      "stage": "QUARTER_FINALS",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537387,
-      "utcDate": "2026-07-14T19:00:00Z",
-      "status": "TIMED",
-      "stage": "SEMI_FINALS",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537388,
-      "utcDate": "2026-07-15T19:00:00Z",
-      "status": "TIMED",
-      "stage": "SEMI_FINALS",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537389,
-      "utcDate": "2026-07-18T21:00:00Z",
-      "status": "TIMED",
-      "stage": "THIRD_PLACE",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
-    },
-    {
-      "id": 537390,
-      "utcDate": "2026-07-19T19:00:00Z",
-      "status": "TIMED",
-      "stage": "FINAL",
-      "homeTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "awayTeam": {
-        "id": null,
-        "name": null,
-        "shortName": null
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      }
+  "lastUpdated": "2026-06-21T15:51:00-04:00",
+  "fase": "Fase de grupos · Jornadas 1 y 2",
+  "scorers": [
+    {
+      "n": "Lionel Messi",
+      "team": "Argentina",
+      "fl": "🇦🇷",
+      "goals": 3
+    },
+    {
+      "n": "Jonathan David",
+      "team": "Canadá",
+      "fl": "🇨🇦",
+      "goals": 3
+    },
+    {
+      "n": "Deniz Undav",
+      "team": "Alemania",
+      "fl": "🇩🇪",
+      "goals": 3
+    }
+  ],
+  "knockout": [
+    {
+      "round": "Dieciseisavos de final",
+      "dates": "28 jun – 3 jul",
+      "matches": [
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-06-28",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-06-28",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-06-28",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-06-29",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-06-29",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-06-29",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-06-30",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-06-30",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-06-30",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-07-01",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-07-01",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-07-01",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-07-02",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-07-02",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-07-03",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-07-03",
+          "time": "",
+          "s": ""
+        }
+      ]
+    },
+    {
+      "round": "Octavos de final",
+      "dates": "4–7 jul",
+      "matches": [
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-07-04",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-07-04",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-07-05",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-07-05",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-07-06",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-07-06",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-07-07",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-07-07",
+          "time": "",
+          "s": ""
+        }
+      ]
+    },
+    {
+      "round": "Cuartos de final",
+      "dates": "9–11 jul",
+      "matches": [
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-07-09",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-07-10",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-07-11",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-07-11",
+          "time": "",
+          "s": ""
+        }
+      ]
+    },
+    {
+      "round": "Semifinales",
+      "dates": "14–15 jul",
+      "matches": [
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-07-14",
+          "time": "",
+          "s": ""
+        },
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-07-15",
+          "time": "",
+          "s": ""
+        }
+      ]
+    },
+    {
+      "round": "Tercer puesto",
+      "dates": "18 jul",
+      "matches": [
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-07-18",
+          "time": "",
+          "s": ""
+        }
+      ]
+    },
+    {
+      "round": "Final",
+      "dates": "19 jul",
+      "matches": [
+        {
+          "a": "Por definir",
+          "fa": "",
+          "b": "Por definir",
+          "fb": "",
+          "date": "2026-07-19",
+          "time": "",
+          "s": ""
+        }
+      ]
+    }
+  ],
+  "grupos": [
+    {
+      "id": "A",
+      "state": "México ya clasificado",
+      "teams": [
+        {
+          "n": "México",
+          "fl": "🇲🇽",
+          "pj": 2,
+          "g": 2,
+          "e": 0,
+          "p": 0,
+          "dg": "+3",
+          "pts": 6,
+          "st": "q"
+        },
+        {
+          "n": "Corea del Sur",
+          "fl": "🇰🇷",
+          "pj": 2,
+          "g": 1,
+          "e": 0,
+          "p": 1,
+          "dg": "0",
+          "pts": 3
+        },
+        {
+          "n": "Rep. Checa",
+          "fl": "🇨🇿",
+          "pj": 2,
+          "g": 0,
+          "e": 1,
+          "p": 1,
+          "dg": "−1",
+          "pts": 1
+        },
+        {
+          "n": "Sudáfrica",
+          "fl": "🇿🇦",
+          "pj": 2,
+          "g": 0,
+          "e": 1,
+          "p": 1,
+          "dg": "−2",
+          "pts": 1
+        }
+      ],
+      "res": [
+        {
+          "a": "México",
+          "fa": "🇲🇽",
+          "b": "Sudáfrica",
+          "fb": "🇿🇦",
+          "s": "2-0",
+          "w": "a"
+        },
+        {
+          "a": "Corea del Sur",
+          "fa": "🇰🇷",
+          "b": "Rep. Checa",
+          "fb": "🇨🇿",
+          "s": "2-1",
+          "w": "a"
+        },
+        {
+          "a": "México",
+          "fa": "🇲🇽",
+          "b": "Corea del Sur",
+          "fb": "🇰🇷",
+          "s": "1-0",
+          "w": "a"
+        },
+        {
+          "a": "Rep. Checa",
+          "fa": "🇨🇿",
+          "b": "Sudáfrica",
+          "fb": "🇿🇦",
+          "s": "1-1",
+          "w": ""
+        }
+      ],
+      "next": [
+        {
+          "a": "Rep. Checa",
+          "fa": "🇨🇿",
+          "b": "México",
+          "fb": "🇲🇽",
+          "date": "2026-06-24",
+          "time": "21:00"
+        },
+        {
+          "a": "Sudáfrica",
+          "fa": "🇿🇦",
+          "b": "Corea del Sur",
+          "fb": "🇰🇷",
+          "date": "2026-06-24",
+          "time": "21:00"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "state": "Canadá ya clasificado",
+      "teams": [
+        {
+          "n": "Canadá",
+          "fl": "🇨🇦",
+          "pj": 2,
+          "g": 1,
+          "e": 1,
+          "p": 0,
+          "dg": "+6",
+          "pts": 4,
+          "st": "q"
+        },
+        {
+          "n": "Suiza",
+          "fl": "🇨🇭",
+          "pj": 2,
+          "g": 1,
+          "e": 1,
+          "p": 0,
+          "dg": "+3",
+          "pts": 4
+        },
+        {
+          "n": "Bosnia",
+          "fl": "🇧🇦",
+          "pj": 2,
+          "g": 0,
+          "e": 1,
+          "p": 1,
+          "dg": "−3",
+          "pts": 1
+        },
+        {
+          "n": "Catar",
+          "fl": "🇶🇦",
+          "pj": 2,
+          "g": 0,
+          "e": 1,
+          "p": 1,
+          "dg": "−6",
+          "pts": 1
+        }
+      ],
+      "res": [
+        {
+          "a": "Canadá",
+          "fa": "🇨🇦",
+          "b": "Bosnia",
+          "fb": "🇧🇦",
+          "s": "1-1",
+          "w": ""
+        },
+        {
+          "a": "Suiza",
+          "fa": "🇨🇭",
+          "b": "Catar",
+          "fb": "🇶🇦",
+          "s": "1-1",
+          "w": ""
+        },
+        {
+          "a": "Suiza",
+          "fa": "🇨🇭",
+          "b": "Bosnia",
+          "fb": "🇧🇦",
+          "s": "4-1",
+          "w": "a"
+        },
+        {
+          "a": "Canadá",
+          "fa": "🇨🇦",
+          "b": "Catar",
+          "fb": "🇶🇦",
+          "s": "6-0",
+          "w": "a"
+        }
+      ],
+      "next": [
+        {
+          "a": "Suiza",
+          "fa": "🇨🇭",
+          "b": "Canadá",
+          "fb": "🇨🇦",
+          "date": "2026-06-24",
+          "time": "15:00"
+        },
+        {
+          "a": "Bosnia",
+          "fa": "🇧🇦",
+          "b": "Catar",
+          "fb": "🇶🇦",
+          "date": "2026-06-24",
+          "time": "15:00"
+        }
+      ]
+    },
+    {
+      "id": "C",
+      "state": "Haití eliminado",
+      "teams": [
+        {
+          "n": "Brasil",
+          "fl": "🇧🇷",
+          "pj": 2,
+          "g": 1,
+          "e": 1,
+          "p": 0,
+          "dg": "+3",
+          "pts": 4
+        },
+        {
+          "n": "Marruecos",
+          "fl": "🇲🇦",
+          "pj": 2,
+          "g": 1,
+          "e": 1,
+          "p": 0,
+          "dg": "+1",
+          "pts": 4
+        },
+        {
+          "n": "Escocia",
+          "fl": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+          "pj": 2,
+          "g": 1,
+          "e": 0,
+          "p": 1,
+          "dg": "0",
+          "pts": 3
+        },
+        {
+          "n": "Haití",
+          "fl": "🇭🇹",
+          "pj": 2,
+          "g": 0,
+          "e": 0,
+          "p": 2,
+          "dg": "−4",
+          "pts": 0,
+          "st": "e"
+        }
+      ],
+      "res": [
+        {
+          "a": "Escocia",
+          "fa": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+          "b": "Haití",
+          "fb": "🇭🇹",
+          "s": "1-0",
+          "w": "a"
+        },
+        {
+          "a": "Brasil",
+          "fa": "🇧🇷",
+          "b": "Marruecos",
+          "fb": "🇲🇦",
+          "s": "1-1",
+          "w": ""
+        },
+        {
+          "a": "Brasil",
+          "fa": "🇧🇷",
+          "b": "Haití",
+          "fb": "🇭🇹",
+          "s": "3-0",
+          "w": "a"
+        },
+        {
+          "a": "Marruecos",
+          "fa": "🇲🇦",
+          "b": "Escocia",
+          "fb": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+          "s": "1-0",
+          "w": "a"
+        }
+      ],
+      "next": [
+        {
+          "a": "Brasil",
+          "fa": "🇧🇷",
+          "b": "Escocia",
+          "fb": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+          "date": "2026-06-24",
+          "time": "18:00"
+        },
+        {
+          "a": "Marruecos",
+          "fa": "🇲🇦",
+          "b": "Haití",
+          "fb": "🇭🇹",
+          "date": "2026-06-24",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
+      "id": "D",
+      "state": "EE.UU. clasificado · Turquía eliminada",
+      "teams": [
+        {
+          "n": "Estados Unidos",
+          "fl": "🇺🇸",
+          "pj": 2,
+          "g": 2,
+          "e": 0,
+          "p": 0,
+          "dg": "+5",
+          "pts": 6,
+          "st": "q"
+        },
+        {
+          "n": "Australia",
+          "fl": "🇦🇺",
+          "pj": 2,
+          "g": 1,
+          "e": 0,
+          "p": 1,
+          "dg": "0",
+          "pts": 3
+        },
+        {
+          "n": "Paraguay",
+          "fl": "🇵🇾",
+          "pj": 2,
+          "g": 1,
+          "e": 0,
+          "p": 1,
+          "dg": "−2",
+          "pts": 3
+        },
+        {
+          "n": "Turquía",
+          "fl": "🇹🇷",
+          "pj": 2,
+          "g": 0,
+          "e": 0,
+          "p": 2,
+          "dg": "−3",
+          "pts": 0,
+          "st": "e"
+        }
+      ],
+      "res": [
+        {
+          "a": "Australia",
+          "fa": "🇦🇺",
+          "b": "Turquía",
+          "fb": "🇹🇷",
+          "s": "2-0",
+          "w": "a"
+        },
+        {
+          "a": "Estados Unidos",
+          "fa": "🇺🇸",
+          "b": "Paraguay",
+          "fb": "🇵🇾",
+          "s": "4-1",
+          "w": "a"
+        },
+        {
+          "a": "Estados Unidos",
+          "fa": "🇺🇸",
+          "b": "Australia",
+          "fb": "🇦🇺",
+          "s": "2-0",
+          "w": "a"
+        },
+        {
+          "a": "Paraguay",
+          "fa": "🇵🇾",
+          "b": "Turquía",
+          "fb": "🇹🇷",
+          "s": "1-0",
+          "w": "a"
+        }
+      ],
+      "next": [
+        {
+          "a": "Estados Unidos",
+          "fa": "🇺🇸",
+          "b": "Turquía",
+          "fb": "🇹🇷",
+          "date": "2026-06-24",
+          "time": ""
+        },
+        {
+          "a": "Australia",
+          "fa": "🇦🇺",
+          "b": "Paraguay",
+          "fb": "🇵🇾",
+          "date": "2026-06-24",
+          "time": ""
+        }
+      ]
+    },
+    {
+      "id": "E",
+      "state": "Alemania ya clasificada",
+      "teams": [
+        {
+          "n": "Alemania",
+          "fl": "🇩🇪",
+          "pj": 2,
+          "g": 2,
+          "e": 0,
+          "p": 0,
+          "dg": "+7",
+          "pts": 6,
+          "st": "q"
+        },
+        {
+          "n": "Costa de Marfil",
+          "fl": "🇨🇮",
+          "pj": 2,
+          "g": 1,
+          "e": 0,
+          "p": 1,
+          "dg": "0",
+          "pts": 3
+        },
+        {
+          "n": "Ecuador",
+          "fl": "🇪🇨",
+          "pj": 2,
+          "g": 0,
+          "e": 1,
+          "p": 1,
+          "dg": "−1",
+          "pts": 1
+        },
+        {
+          "n": "Curazao",
+          "fl": "🇨🇼",
+          "pj": 2,
+          "g": 0,
+          "e": 1,
+          "p": 1,
+          "dg": "−6",
+          "pts": 1
+        }
+      ],
+      "res": [
+        {
+          "a": "Alemania",
+          "fa": "🇩🇪",
+          "b": "Curazao",
+          "fb": "🇨🇼",
+          "s": "7-1",
+          "w": "a"
+        },
+        {
+          "a": "Costa de Marfil",
+          "fa": "🇨🇮",
+          "b": "Ecuador",
+          "fb": "🇪🇨",
+          "s": "1-0",
+          "w": "a"
+        },
+        {
+          "a": "Alemania",
+          "fa": "🇩🇪",
+          "b": "Costa de Marfil",
+          "fb": "🇨🇮",
+          "s": "2-1",
+          "w": "a"
+        },
+        {
+          "a": "Ecuador",
+          "fa": "🇪🇨",
+          "b": "Curazao",
+          "fb": "🇨🇼",
+          "s": "0-0",
+          "w": ""
+        }
+      ],
+      "next": [
+        {
+          "a": "Alemania",
+          "fa": "🇩🇪",
+          "b": "Ecuador",
+          "fb": "🇪🇨",
+          "date": "2026-06-25",
+          "time": "16:00"
+        },
+        {
+          "a": "Costa de Marfil",
+          "fa": "🇨🇮",
+          "b": "Curazao",
+          "fb": "🇨🇼",
+          "date": "2026-06-25",
+          "time": "16:00"
+        }
+      ]
+    },
+    {
+      "id": "F",
+      "state": "Túnez eliminado",
+      "teams": [
+        {
+          "n": "Países Bajos",
+          "fl": "🇳🇱",
+          "pj": 2,
+          "g": 1,
+          "e": 1,
+          "p": 0,
+          "dg": "+4",
+          "pts": 4
+        },
+        {
+          "n": "Japón",
+          "fl": "🇯🇵",
+          "pj": 2,
+          "g": 1,
+          "e": 1,
+          "p": 0,
+          "dg": "+4",
+          "pts": 4
+        },
+        {
+          "n": "Suecia",
+          "fl": "🇸🇪",
+          "pj": 2,
+          "g": 1,
+          "e": 0,
+          "p": 1,
+          "dg": "0",
+          "pts": 3
+        },
+        {
+          "n": "Túnez",
+          "fl": "🇹🇳",
+          "pj": 2,
+          "g": 0,
+          "e": 0,
+          "p": 2,
+          "dg": "−8",
+          "pts": 0,
+          "st": "e"
+        }
+      ],
+      "res": [
+        {
+          "a": "Países Bajos",
+          "fa": "🇳🇱",
+          "b": "Japón",
+          "fb": "🇯🇵",
+          "s": "2-2",
+          "w": ""
+        },
+        {
+          "a": "Suecia",
+          "fa": "🇸🇪",
+          "b": "Túnez",
+          "fb": "🇹🇳",
+          "s": "5-1",
+          "w": "a"
+        },
+        {
+          "a": "Países Bajos",
+          "fa": "🇳🇱",
+          "b": "Suecia",
+          "fb": "🇸🇪",
+          "s": "5-1",
+          "w": "a"
+        },
+        {
+          "a": "Japón",
+          "fa": "🇯🇵",
+          "b": "Túnez",
+          "fb": "🇹🇳",
+          "s": "4-0",
+          "w": "a"
+        }
+      ],
+      "next": [
+        {
+          "a": "Países Bajos",
+          "fa": "🇳🇱",
+          "b": "Túnez",
+          "fb": "🇹🇳",
+          "date": "2026-06-25",
+          "time": "19:00"
+        },
+        {
+          "a": "Japón",
+          "fa": "🇯🇵",
+          "b": "Suecia",
+          "fb": "🇸🇪",
+          "date": "2026-06-25",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "G",
+      "state": "Igualadísimo · todos con 1 punto",
+      "teams": [
+        {
+          "n": "Irán",
+          "fl": "🇮🇷",
+          "pj": 1,
+          "g": 0,
+          "e": 1,
+          "p": 0,
+          "dg": "0",
+          "pts": 1
+        },
+        {
+          "n": "Nueva Zelanda",
+          "fl": "🇳🇿",
+          "pj": 1,
+          "g": 0,
+          "e": 1,
+          "p": 0,
+          "dg": "0",
+          "pts": 1
+        },
+        {
+          "n": "Bélgica",
+          "fl": "🇧🇪",
+          "pj": 1,
+          "g": 0,
+          "e": 1,
+          "p": 0,
+          "dg": "0",
+          "pts": 1
+        },
+        {
+          "n": "Egipto",
+          "fl": "🇪🇬",
+          "pj": 1,
+          "g": 0,
+          "e": 1,
+          "p": 0,
+          "dg": "0",
+          "pts": 1
+        }
+      ],
+      "res": [
+        {
+          "a": "Bélgica",
+          "fa": "🇧🇪",
+          "b": "Egipto",
+          "fb": "🇪🇬",
+          "s": "1-1",
+          "w": ""
+        },
+        {
+          "a": "Irán",
+          "fa": "🇮🇷",
+          "b": "Nueva Zelanda",
+          "fb": "🇳🇿",
+          "s": "2-2",
+          "w": ""
+        }
+      ],
+      "next": [
+        {
+          "a": "Bélgica",
+          "fa": "🇧🇪",
+          "b": "Irán",
+          "fb": "🇮🇷",
+          "date": "2026-06-21",
+          "time": "15:00",
+          "live": true
+        },
+        {
+          "a": "Egipto",
+          "fa": "🇪🇬",
+          "b": "Nueva Zelanda",
+          "fb": "🇳🇿",
+          "date": "2026-06-21",
+          "time": ""
+        },
+        {
+          "a": "Egipto",
+          "fa": "🇪🇬",
+          "b": "Irán",
+          "fb": "🇮🇷",
+          "date": "2026-06-26",
+          "time": "23:00"
+        },
+        {
+          "a": "Nueva Zelanda",
+          "fa": "🇳🇿",
+          "b": "Bélgica",
+          "fb": "🇧🇪",
+          "date": "2026-06-26",
+          "time": "23:00"
+        }
+      ]
+    },
+    {
+      "id": "H",
+      "state": "España lidera tras golear",
+      "teams": [
+        {
+          "n": "España",
+          "fl": "🇪🇸",
+          "pj": 2,
+          "g": 1,
+          "e": 1,
+          "p": 0,
+          "dg": "+4",
+          "pts": 4,
+          "lead": true
+        },
+        {
+          "n": "Uruguay",
+          "fl": "🇺🇾",
+          "pj": 1,
+          "g": 0,
+          "e": 1,
+          "p": 0,
+          "dg": "0",
+          "pts": 1
+        },
+        {
+          "n": "Cabo Verde",
+          "fl": "🇨🇻",
+          "pj": 1,
+          "g": 0,
+          "e": 1,
+          "p": 0,
+          "dg": "0",
+          "pts": 1
+        },
+        {
+          "n": "Arabia Saudita",
+          "fl": "🇸🇦",
+          "pj": 2,
+          "g": 0,
+          "e": 1,
+          "p": 1,
+          "dg": "−4",
+          "pts": 1
+        }
+      ],
+      "res": [
+        {
+          "a": "España",
+          "fa": "🇪🇸",
+          "b": "Cabo Verde",
+          "fb": "🇨🇻",
+          "s": "0-0",
+          "w": ""
+        },
+        {
+          "a": "Uruguay",
+          "fa": "🇺🇾",
+          "b": "Arabia Saudita",
+          "fb": "🇸🇦",
+          "s": "1-1",
+          "w": ""
+        },
+        {
+          "a": "España",
+          "fa": "🇪🇸",
+          "b": "Arabia Saudita",
+          "fb": "🇸🇦",
+          "s": "4-0",
+          "w": "a"
+        }
+      ],
+      "next": [
+        {
+          "a": "Uruguay",
+          "fa": "🇺🇾",
+          "b": "Cabo Verde",
+          "fb": "🇨🇻",
+          "date": "2026-06-21",
+          "time": "18:00"
+        },
+        {
+          "a": "Uruguay",
+          "fa": "🇺🇾",
+          "b": "España",
+          "fb": "🇪🇸",
+          "date": "2026-06-26",
+          "time": "20:00"
+        },
+        {
+          "a": "Cabo Verde",
+          "fa": "🇨🇻",
+          "b": "Arabia Saudita",
+          "fb": "🇸🇦",
+          "date": "2026-06-26",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "I",
+      "state": "Noruega y Francia arriba",
+      "teams": [
+        {
+          "n": "Noruega",
+          "fl": "🇳🇴",
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "dg": "+3",
+          "pts": 3
+        },
+        {
+          "n": "Francia",
+          "fl": "🇫🇷",
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "dg": "+2",
+          "pts": 3
+        },
+        {
+          "n": "Senegal",
+          "fl": "🇸🇳",
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "dg": "−2",
+          "pts": 0
+        },
+        {
+          "n": "Irak",
+          "fl": "🇮🇶",
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "dg": "−3",
+          "pts": 0
+        }
+      ],
+      "res": [
+        {
+          "a": "Noruega",
+          "fa": "🇳🇴",
+          "b": "Irak",
+          "fb": "🇮🇶",
+          "s": "4-1",
+          "w": "a"
+        },
+        {
+          "a": "Francia",
+          "fa": "🇫🇷",
+          "b": "Senegal",
+          "fb": "🇸🇳",
+          "s": "3-1",
+          "w": "a"
+        }
+      ],
+      "next": [
+        {
+          "a": "Francia",
+          "fa": "🇫🇷",
+          "b": "Irak",
+          "fb": "🇮🇶",
+          "date": "2026-06-22",
+          "time": "17:00"
+        },
+        {
+          "a": "Noruega",
+          "fa": "🇳🇴",
+          "b": "Senegal",
+          "fb": "🇸🇳",
+          "date": "2026-06-22",
+          "time": "20:00"
+        },
+        {
+          "a": "Francia",
+          "fa": "🇫🇷",
+          "b": "Noruega",
+          "fb": "🇳🇴",
+          "date": "2026-06-26",
+          "time": "15:00"
+        },
+        {
+          "a": "Irak",
+          "fa": "🇮🇶",
+          "b": "Senegal",
+          "fb": "🇸🇳",
+          "date": "2026-06-26",
+          "time": "15:00"
+        }
+      ]
+    },
+    {
+      "id": "J",
+      "state": "Argentina (vigente campeón) puntera",
+      "teams": [
+        {
+          "n": "Argentina",
+          "fl": "🇦🇷",
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "dg": "+3",
+          "pts": 3
+        },
+        {
+          "n": "Austria",
+          "fl": "🇦🇹",
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "dg": "+2",
+          "pts": 3
+        },
+        {
+          "n": "Jordania",
+          "fl": "🇯🇴",
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "dg": "−2",
+          "pts": 0
+        },
+        {
+          "n": "Argelia",
+          "fl": "🇩🇿",
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "dg": "−3",
+          "pts": 0
+        }
+      ],
+      "res": [
+        {
+          "a": "Argentina",
+          "fa": "🇦🇷",
+          "b": "Argelia",
+          "fb": "🇩🇿",
+          "s": "3-0",
+          "w": "a"
+        },
+        {
+          "a": "Austria",
+          "fa": "🇦🇹",
+          "b": "Jordania",
+          "fb": "🇯🇴",
+          "s": "3-1",
+          "w": "a"
+        }
+      ],
+      "next": [
+        {
+          "a": "Argentina",
+          "fa": "🇦🇷",
+          "b": "Austria",
+          "fb": "🇦🇹",
+          "date": "2026-06-22",
+          "time": "13:00"
+        },
+        {
+          "a": "Jordania",
+          "fa": "🇯🇴",
+          "b": "Argelia",
+          "fb": "🇩🇿",
+          "date": "2026-06-22",
+          "time": ""
+        },
+        {
+          "a": "Jordania",
+          "fa": "🇯🇴",
+          "b": "Argentina",
+          "fb": "🇦🇷",
+          "date": "2026-06-27",
+          "time": "22:00"
+        },
+        {
+          "a": "Argelia",
+          "fa": "🇩🇿",
+          "b": "Austria",
+          "fb": "🇦🇹",
+          "date": "2026-06-27",
+          "time": "22:00"
+        }
+      ]
+    },
+    {
+      "id": "K",
+      "state": "Colombia arranca líder",
+      "teams": [
+        {
+          "n": "Colombia",
+          "fl": "🇨🇴",
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "dg": "+2",
+          "pts": 3
+        },
+        {
+          "n": "Portugal",
+          "fl": "🇵🇹",
+          "pj": 1,
+          "g": 0,
+          "e": 1,
+          "p": 0,
+          "dg": "0",
+          "pts": 1
+        },
+        {
+          "n": "RD Congo",
+          "fl": "🇨🇩",
+          "pj": 1,
+          "g": 0,
+          "e": 1,
+          "p": 0,
+          "dg": "0",
+          "pts": 1
+        },
+        {
+          "n": "Uzbekistán",
+          "fl": "🇺🇿",
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "dg": "−2",
+          "pts": 0
+        }
+      ],
+      "res": [
+        {
+          "a": "Colombia",
+          "fa": "🇨🇴",
+          "b": "Uzbekistán",
+          "fb": "🇺🇿",
+          "s": "3-1",
+          "w": "a"
+        },
+        {
+          "a": "Portugal",
+          "fa": "🇵🇹",
+          "b": "RD Congo",
+          "fb": "🇨🇩",
+          "s": "1-1",
+          "w": ""
+        }
+      ],
+      "next": [
+        {
+          "a": "Portugal",
+          "fa": "🇵🇹",
+          "b": "Uzbekistán",
+          "fb": "🇺🇿",
+          "date": "2026-06-23",
+          "time": "13:00"
+        },
+        {
+          "a": "Colombia",
+          "fa": "🇨🇴",
+          "b": "RD Congo",
+          "fb": "🇨🇩",
+          "date": "2026-06-23",
+          "time": ""
+        },
+        {
+          "a": "Portugal",
+          "fa": "🇵🇹",
+          "b": "Colombia",
+          "fb": "🇨🇴",
+          "date": "2026-06-27",
+          "time": "19:30"
+        },
+        {
+          "a": "RD Congo",
+          "fa": "🇨🇩",
+          "b": "Uzbekistán",
+          "fb": "🇺🇿",
+          "date": "2026-06-27",
+          "time": "19:30"
+        }
+      ]
+    },
+    {
+      "id": "L",
+      "state": "Inglaterra y Ghana ganaron",
+      "teams": [
+        {
+          "n": "Inglaterra",
+          "fl": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "dg": "+2",
+          "pts": 3
+        },
+        {
+          "n": "Ghana",
+          "fl": "🇬🇭",
+          "pj": 1,
+          "g": 1,
+          "e": 0,
+          "p": 0,
+          "dg": "+1",
+          "pts": 3
+        },
+        {
+          "n": "Panamá",
+          "fl": "🇵🇦",
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "dg": "−1",
+          "pts": 0
+        },
+        {
+          "n": "Croacia",
+          "fl": "🇭🇷",
+          "pj": 1,
+          "g": 0,
+          "e": 0,
+          "p": 1,
+          "dg": "−2",
+          "pts": 0
+        }
+      ],
+      "res": [
+        {
+          "a": "Inglaterra",
+          "fa": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "b": "Croacia",
+          "fb": "🇭🇷",
+          "s": "4-2",
+          "w": "a"
+        },
+        {
+          "a": "Ghana",
+          "fa": "🇬🇭",
+          "b": "Panamá",
+          "fb": "🇵🇦",
+          "s": "1-0",
+          "w": "a"
+        }
+      ],
+      "next": [
+        {
+          "a": "Inglaterra",
+          "fa": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "b": "Ghana",
+          "fb": "🇬🇭",
+          "date": "2026-06-23",
+          "time": "16:00"
+        },
+        {
+          "a": "Croacia",
+          "fa": "🇭🇷",
+          "b": "Panamá",
+          "fb": "🇵🇦",
+          "date": "2026-06-23",
+          "time": "19:00"
+        },
+        {
+          "a": "Inglaterra",
+          "fa": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "b": "Panamá",
+          "fb": "🇵🇦",
+          "date": "2026-06-27",
+          "time": "17:00"
+        },
+        {
+          "a": "Croacia",
+          "fa": "🇭🇷",
+          "b": "Ghana",
+          "fb": "🇬🇭",
+          "date": "2026-06-27",
+          "time": "17:00"
+        }
+      ]
     }
   ]
 }

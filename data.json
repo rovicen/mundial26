@@ -1,5 +1,5 @@
 {
-  "actualizadoEn": "24/06/2026, 08:51 p.m.",
+  "actualizadoEn": "24/06/2026, 09:04 p.m.",
   "totalPartidos": 0,
   "partidos": [
     {
@@ -1461,7 +1461,7 @@
     {
       "id": 537331,
       "utcDate": "2026-06-25T01:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "homeTeam": {
         "id": 798,
@@ -1478,7 +1478,7 @@
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 2
+          "away": 3
         },
         "halfTime": {
           "home": 0,
@@ -1489,7 +1489,7 @@
     {
       "id": 537332,
       "utcDate": "2026-06-25T01:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "stage": "GROUP_STAGE",
       "homeTeam": {
         "id": 774,

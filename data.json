@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T07:37:32.910Z",
+  "lastUpdated": "2026-06-25T10:37:43.967Z",
   "fase": "Eliminatorias en curso",
   "grupos": [
     {
@@ -810,7 +810,7 @@
           "a": "Saudi Arabia",
           "fa": "🇪🇲",
           "b": "Uruguay",
-          "fb": "🇴🇱",
+          "fb": "🇴🇸",
           "s": "1-1",
           "w": "e",
           "live": false
@@ -826,7 +826,7 @@
         },
         {
           "a": "Uruguay",
-          "fa": "🇴🇱",
+          "fa": "🇴🇸",
           "b": "Cape Verde Islands",
           "fb": "🇢🇯",
           "s": "2-2",
@@ -837,7 +837,7 @@
       "next": [
         {
           "a": "Uruguay",
-          "fa": "🇴🇱",
+          "fa": "🇴🇸",
           "b": "Spain",
           "fb": "🇤🇲",
           "date": "2026-06-27",

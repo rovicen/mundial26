@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T21:26:18.265Z",
+  "lastUpdated": "2026-06-25T23:11:54.124Z",
   "fase": "Eliminatorias en curso",
   "grupos": [
     {
@@ -438,10 +438,10 @@
           "fl": "🇦🇤",
           "pj": 3,
           "g": 2,
-          "e": 1,
-          "p": 0,
-          "dg": "+7",
-          "pts": 7,
+          "e": 0,
+          "p": 1,
+          "dg": "+6",
+          "pts": 6,
           "st": "q"
         },
         {
@@ -451,7 +451,7 @@
           "g": 2,
           "e": 0,
           "p": 1,
-          "dg": "+1",
+          "dg": "+2",
           "pts": 6,
           "st": ""
         },
@@ -459,11 +459,11 @@
           "n": "Ecuador",
           "fl": "🇤🇢",
           "pj": 3,
-          "g": 0,
-          "e": 2,
+          "g": 1,
+          "e": 1,
           "p": 1,
-          "dg": "-1",
-          "pts": 2,
+          "dg": "+0",
+          "pts": 4,
           "st": ""
         },
         {
@@ -473,7 +473,7 @@
           "g": 0,
           "e": 1,
           "p": 2,
-          "dg": "-7",
+          "dg": "-8",
           "pts": 1,
           "st": "e"
         }
@@ -520,69 +520,69 @@
           "fa": "🇤🇢",
           "b": "Germany",
           "fb": "🇦🇤",
-          "s": "1-1",
-          "w": "",
-          "live": true
+          "s": "2-1",
+          "w": "a",
+          "live": false
         },
         {
           "a": "Curaçao",
           "fa": "🇢🇴",
           "b": "Ivory Coast",
           "fb": "🇢🇨",
-          "s": "0-1",
-          "w": "",
-          "live": true
+          "s": "0-2",
+          "w": "b",
+          "live": false
         }
       ],
       "next": []
     },
     {
       "id": "F",
-      "state": "En curso",
+      "state": "Netherlands ya clasificado",
       "teams": [
         {
           "n": "Netherlands",
           "fl": "🇭🇤",
-          "pj": 2,
+          "pj": 3,
           "g": 1,
-          "e": 1,
+          "e": 2,
           "p": 0,
           "dg": "+4",
-          "pts": 4,
-          "st": ""
+          "pts": 5,
+          "st": "q"
         },
         {
           "n": "Japan",
           "fl": "🇩🇯",
-          "pj": 2,
+          "pj": 3,
           "g": 1,
-          "e": 1,
+          "e": 2,
           "p": 0,
           "dg": "+4",
-          "pts": 4,
+          "pts": 5,
           "st": ""
         },
         {
           "n": "Sweden",
           "fl": "🇲🇤",
-          "pj": 2,
+          "pj": 3,
           "g": 1,
-          "e": 0,
+          "e": 1,
           "p": 1,
           "dg": "+0",
-          "pts": 3,
+          "pts": 4,
           "st": ""
         },
         {
           "n": "Tunisia",
           "fl": "🇳🇭",
-          "pj": 2,
+          "pj": 3,
           "g": 0,
-          "e": 0,
+          "e": 1,
           "p": 2,
           "dg": "-8",
-          "pts": 0,
-          "st": ""
+          "pts": 1,
+          "st": "e"
         }
       ],
       "res": [
@@ -621,26 +621,27 @@
           "s": "0-4",
           "w": "b",
           "live": false
-        }
-      ],
-      "next": [
+        },
         {
           "a": "Tunisia",
           "fa": "🇳🇭",
           "b": "Netherlands",
           "fb": "🇭🇤",
-          "date": "2026-06-25",
-          "time": "23:00"
+          "s": "0-2",
+          "w": "",
+          "live": true
         },
         {
           "a": "Japan",
           "fa": "🇩🇯",
           "b": "Sweden",
           "fb": "🇲🇤",
-          "date": "2026-06-25",
-          "time": "23:00"
+          "s": "0-0",
+          "w": "",
+          "live": true
         }
-      ]
+      ],
+      "next": []
     },
     {
       "id": "G",
@@ -1543,10 +1544,10 @@
       "goals": 3
     },
     {
-      "n": "Julián Quiñones",
-      "team": "Mexico",
-      "fl": "🇬🇷",
-      "goals": 2
+      "n": "Brian Brobbey",
+      "team": "Netherlands",
+      "fl": "🇭🇤",
+      "goals": 3
     }
   ]
 }

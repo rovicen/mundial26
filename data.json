@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T03:33:46.039Z",
+  "lastUpdated": "2026-06-25T03:40:30.937Z",
   "fase": "Eliminatorias en curso",
   "grupos": [
     {
@@ -775,7 +775,7 @@
         },
         {
           "n": "Cape Verde Islands",
-          "fl": "🇢🇵",
+          "fl": "🇢🇯",
           "pj": 2,
           "g": 0,
           "e": 2,
@@ -801,7 +801,7 @@
           "a": "Spain",
           "fa": "🇤🇲",
           "b": "Cape Verde Islands",
-          "fb": "🇢🇵",
+          "fb": "🇢🇯",
           "s": "0-0",
           "w": "e",
           "live": false
@@ -810,7 +810,7 @@
           "a": "Saudi Arabia",
           "fa": "🇪🇲",
           "b": "Uruguay",
-          "fb": "🇴🇱",
+          "fb": "🇴🇸",
           "s": "1-1",
           "w": "e",
           "live": false
@@ -826,9 +826,9 @@
         },
         {
           "a": "Uruguay",
-          "fa": "🇴🇱",
+          "fa": "🇴🇸",
           "b": "Cape Verde Islands",
-          "fb": "🇢🇵",
+          "fb": "🇢🇯",
           "s": "2-2",
           "w": "e",
           "live": false
@@ -837,7 +837,7 @@
       "next": [
         {
           "a": "Uruguay",
-          "fa": "🇴🇱",
+          "fa": "🇴🇸",
           "b": "Spain",
           "fb": "🇤🇲",
           "date": "2026-06-27",
@@ -845,7 +845,7 @@
         },
         {
           "a": "Cape Verde Islands",
-          "fa": "🇢🇵",
+          "fa": "🇢🇯",
           "b": "Saudi Arabia",
           "fb": "🇪🇲",
           "date": "2026-06-27",
@@ -1093,7 +1093,7 @@
         },
         {
           "n": "Congo DR",
-          "fl": "🇢🇣",
+          "fl": "🇢🇮",
           "pj": 2,
           "g": 0,
           "e": 1,
@@ -1119,7 +1119,7 @@
           "a": "Portugal",
           "fa": "🇯🇮",
           "b": "Congo DR",
-          "fb": "🇢🇣",
+          "fb": "🇢🇮",
           "s": "1-1",
           "w": "e",
           "live": false
@@ -1146,7 +1146,7 @@
           "a": "Colombia",
           "fa": "🇢🇮",
           "b": "Congo DR",
-          "fb": "🇢🇣",
+          "fb": "🇢🇮",
           "s": "1-0",
           "w": "a",
           "live": false
@@ -1163,7 +1163,7 @@
         },
         {
           "a": "Congo DR",
-          "fa": "🇢🇣",
+          "fa": "🇢🇮",
           "b": "Uzbekistan",
           "fb": "🇴🇹",
           "date": "2026-06-27",
@@ -1278,394 +1278,214 @@
       ]
     }
   ],
-  "knockout": {
-    "rounds": [
-      {
-        "round": "LAST_16",
-        "matches": [
-          {
-            "a": null,
-            "fa": "",
-            "b": null,
-            "fb": "",
-            "s": "",
-            "w": "",
-            "date": "2026-07-04",
-            "time": "17:00",
-            "live": false
-          },
-          {
-            "a": null,
-            "fa": "",
-            "b": null,
-            "fb": "",
-            "s": "",
-            "w": "",
-            "date": "2026-07-04",
-            "time": "21:00",
-            "live": false
-          },
-          {
-            "a": null,
-            "fa": "",
-            "b": null,
-            "fb": "",
-            "s": "",
-            "w": "",
-            "date": "2026-07-05",
-            "time": "20:00",
-            "live": false
-          },
-          {
-            "a": null,
-            "fa": "",
-            "b": null,
-            "fb": "",
-            "s": "",
-            "w": "",
-            "date": "2026-07-06",
-            "time": "00:00",
-            "live": false
-          },
-          {
-            "a": null,
-            "fa": "",
-            "b": null,
-            "fb": "",
-            "s": "",
-            "w": "",
-            "date": "2026-07-06",
-            "time": "19:00",
-            "live": false
-          },
-          {
-            "a": null,
-            "fa": "",
-            "b": null,
-            "fb": "",
-            "s": "",
-            "w": "",
-            "date": "2026-07-07",
-            "time": "00:00",
-            "live": false
-          },
-          {
-            "a": null,
-            "fa": "",
-            "b": null,
-            "fb": "",
-            "s": "",
-            "w": "",
-            "date": "2026-07-07",
-            "time": "16:00",
-            "live": false
-          },
-          {
-            "a": null,
-            "fa": "",
-            "b": null,
-            "fb": "",
-            "s": "",
-            "w": "",
-            "date": "2026-07-07",
-            "time": "20:00",
-            "live": false
-          }
-        ]
-      },
-      {
-        "round": "QUARTER_FINALS",
-        "matches": [
-          {
-            "a": null,
-            "fa": "",
-            "b": null,
-            "fb": "",
-            "s": "",
-            "w": "",
-            "date": "2026-07-09",
-            "time": "20:00",
-            "live": false
-          },
-          {
-            "a": null,
-            "fa": "",
-            "b": null,
-            "fb": "",
-            "s": "",
-            "w": "",
-            "date": "2026-07-10",
-            "time": "19:00",
-            "live": false
-          },
-          {
-            "a": null,
-            "fa": "",
-            "b": null,
-            "fb": "",
-            "s": "",
-            "w": "",
-            "date": "2026-07-11",
-            "time": "21:00",
-            "live": false
-          },
-          {
-            "a": null,
-            "fa": "",
-            "b": null,
-            "fb": "",
-            "s": "",
-            "w": "",
-            "date": "2026-07-12",
-            "time": "01:00",
-            "live": false
-          }
-        ]
-      },
-      {
-        "round": "SEMI_FINALS",
-        "matches": [
-          {
-            "a": null,
-            "fa": "",
-            "b": null,
-            "fb": "",
-            "s": "",
-            "w": "",
-            "date": "2026-07-14",
-            "time": "19:00",
-            "live": false
-          },
-          {
-            "a": null,
-            "fa": "",
-            "b": null,
-            "fb": "",
-            "s": "",
-            "w": "",
-            "date": "2026-07-15",
-            "time": "19:00",
-            "live": false
-          }
-        ]
-      },
-      {
-        "round": "THIRD_PLACE",
-        "matches": [
-          {
-            "a": null,
-            "fa": "",
-            "b": null,
-            "fb": "",
-            "s": "",
-            "w": "",
-            "date": "2026-07-18",
-            "time": "21:00",
-            "live": false
-          }
-        ]
-      },
-      {
-        "round": "FINAL",
-        "matches": [
-          {
-            "a": null,
-            "fa": "",
-            "b": null,
-            "fb": "",
-            "s": "",
-            "w": "",
-            "date": "2026-07-19",
-            "time": "19:00",
-            "live": false
-          }
-        ]
-      }
-    ],
-    "d16": [
-      {
-        "a": null,
-        "fa": "",
-        "b": null,
-        "fb": "",
-        "s": "",
-        "w": "",
-        "date": "2026-07-04",
-        "time": "17:00",
-        "live": false
-      },
-      {
-        "a": null,
-        "fa": "",
-        "b": null,
-        "fb": "",
-        "s": "",
-        "w": "",
-        "date": "2026-07-04",
-        "time": "21:00",
-        "live": false
-      },
-      {
-        "a": null,
-        "fa": "",
-        "b": null,
-        "fb": "",
-        "s": "",
-        "w": "",
-        "date": "2026-07-05",
-        "time": "20:00",
-        "live": false
-      },
-      {
-        "a": null,
-        "fa": "",
-        "b": null,
-        "fb": "",
-        "s": "",
-        "w": "",
-        "date": "2026-07-06",
-        "time": "00:00",
-        "live": false
-      },
-      {
-        "a": null,
-        "fa": "",
-        "b": null,
-        "fb": "",
-        "s": "",
-        "w": "",
-        "date": "2026-07-06",
-        "time": "19:00",
-        "live": false
-      },
-      {
-        "a": null,
-        "fa": "",
-        "b": null,
-        "fb": "",
-        "s": "",
-        "w": "",
-        "date": "2026-07-07",
-        "time": "00:00",
-        "live": false
-      },
-      {
-        "a": null,
-        "fa": "",
-        "b": null,
-        "fb": "",
-        "s": "",
-        "w": "",
-        "date": "2026-07-07",
-        "time": "16:00",
-        "live": false
-      },
-      {
-        "a": null,
-        "fa": "",
-        "b": null,
-        "fb": "",
-        "s": "",
-        "w": "",
-        "date": "2026-07-07",
-        "time": "20:00",
-        "live": false
-      }
-    ],
-    "oct": [
-      {
-        "a": null,
-        "fa": "",
-        "b": null,
-        "fb": "",
-        "s": "",
-        "w": "",
-        "date": "2026-07-09",
-        "time": "20:00",
-        "live": false
-      },
-      {
-        "a": null,
-        "fa": "",
-        "b": null,
-        "fb": "",
-        "s": "",
-        "w": "",
-        "date": "2026-07-10",
-        "time": "19:00",
-        "live": false
-      },
-      {
-        "a": null,
-        "fa": "",
-        "b": null,
-        "fb": "",
-        "s": "",
-        "w": "",
-        "date": "2026-07-11",
-        "time": "21:00",
-        "live": false
-      },
-      {
-        "a": null,
-        "fa": "",
-        "b": null,
-        "fb": "",
-        "s": "",
-        "w": "",
-        "date": "2026-07-12",
-        "time": "01:00",
-        "live": false
-      }
-    ],
-    "ccua": [],
-    "sem": [
-      {
-        "a": null,
-        "fa": "",
-        "b": null,
-        "fb": "",
-        "s": "",
-        "w": "",
-        "date": "2026-07-14",
-        "time": "19:00",
-        "live": false
-      },
-      {
-        "a": null,
-        "fa": "",
-        "b": null,
-        "fb": "",
-        "s": "",
-        "w": "",
-        "date": "2026-07-15",
-        "time": "19:00",
-        "live": false
-      }
-    ],
-    "fin": {
-      "a": null,
-      "fa": "",
-      "b": null,
-      "fb": "",
-      "s": "",
-      "w": "",
-      "date": "2026-07-19",
-      "time": "19:00",
-      "live": false
+  "knockout": [
+    {
+      "round": "Dieciseisavos de final",
+      "matches": [
+        {
+          "a": null,
+          "fa": "",
+          "b": null,
+          "fb": "",
+          "s": "",
+          "w": "",
+          "date": "2026-07-04",
+          "time": "17:00",
+          "live": false
+        },
+        {
+          "a": null,
+          "fa": "",
+          "b": null,
+          "fb": "",
+          "s": "",
+          "w": "",
+          "date": "2026-07-04",
+          "time": "21:00",
+          "live": false
+        },
+        {
+          "a": null,
+          "fa": "",
+          "b": null,
+          "fb": "",
+          "s": "",
+          "w": "",
+          "date": "2026-07-05",
+          "time": "20:00",
+          "live": false
+        },
+        {
+          "a": null,
+          "fa": "",
+          "b": null,
+          "fb": "",
+          "s": "",
+          "w": "",
+          "date": "2026-07-06",
+          "time": "00:00",
+          "live": false
+        },
+        {
+          "a": null,
+          "fa": "",
+          "b": null,
+          "fb": "",
+          "s": "",
+          "w": "",
+          "date": "2026-07-06",
+          "time": "19:00",
+          "live": false
+        },
+        {
+          "a": null,
+          "fa": "",
+          "b": null,
+          "fb": "",
+          "s": "",
+          "w": "",
+          "date": "2026-07-07",
+          "time": "00:00",
+          "live": false
+        },
+        {
+          "a": null,
+          "fa": "",
+          "b": null,
+          "fb": "",
+          "s": "",
+          "w": "",
+          "date": "2026-07-07",
+          "time": "16:00",
+          "live": false
+        },
+        {
+          "a": null,
+          "fa": "",
+          "b": null,
+          "fb": "",
+          "s": "",
+          "w": "",
+          "date": "2026-07-07",
+          "time": "20:00",
+          "live": false
+        }
+      ],
+      "dates": ""
     },
-    "ter": {
-      "a": null,
-      "fa": "",
-      "b": null,
-      "fb": "",
-      "s": "",
-      "w": "",
-      "date": "2026-07-18",
-      "time": "21:00",
-      "live": false
+    {
+      "round": "Octavos de final",
+      "matches": [
+        {
+          "a": null,
+          "fa": "",
+          "b": null,
+          "fb": "",
+          "s": "",
+          "w": "",
+          "date": "2026-07-09",
+          "time": "20:00",
+          "live": false
+        },
+        {
+          "a": null,
+          "fa": "",
+          "b": null,
+          "fb": "",
+          "s": "",
+          "w": "",
+          "date": "2026-07-10",
+          "time": "19:00",
+          "live": false
+        },
+        {
+          "a": null,
+          "fa": "",
+          "b": null,
+          "fb": "",
+          "s": "",
+          "w": "",
+          "date": "2026-07-11",
+          "time": "21:00",
+          "live": false
+        },
+        {
+          "a": null,
+          "fa": "",
+          "b": null,
+          "fb": "",
+          "s": "",
+          "w": "",
+          "date": "2026-07-12",
+          "time": "01:00",
+          "live": false
+        }
+      ],
+      "dates": ""
+    },
+    {
+      "round": "Semifinales",
+      "matches": [
+        {
+          "a": null,
+          "fa": "",
+          "b": null,
+          "fb": "",
+          "s": "",
+          "w": "",
+          "date": "2026-07-14",
+          "time": "19:00",
+          "live": false
+        },
+        {
+          "a": null,
+          "fa": "",
+          "b": null,
+          "fb": "",
+          "s": "",
+          "w": "",
+          "date": "2026-07-15",
+          "time": "19:00",
+          "live": false
+        }
+      ],
+      "dates": ""
+    },
+    {
+      "round": "Tercer puesto",
+      "matches": [
+        {
+          "a": null,
+          "fa": "",
+          "b": null,
+          "fb": "",
+          "s": "",
+          "w": "",
+          "date": "2026-07-18",
+          "time": "21:00",
+          "live": false
+        }
+      ],
+      "dates": ""
+    },
+    {
+      "round": "Final",
+      "matches": [
+        {
+          "a": null,
+          "fa": "",
+          "b": null,
+          "fb": "",
+          "s": "",
+          "w": "",
+          "date": "2026-07-19",
+          "time": "19:00",
+          "live": false
+        }
+      ],
+      "dates": ""
     }
-  },
+  ],
   "scorers": [
     {
       "n": "Lionel Messi",

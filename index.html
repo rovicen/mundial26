@@ -4,64 +4,65 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <title>Mundial 2026 · Tablero</title>
-<meta name="theme-color" content="#0a3a22">
+<meta name="theme-color" content="#011932">
 <link rel="manifest" href="manifest.webmanifest">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Mundial 2026">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Anton&family=Rubik:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,600&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/twemoji@14.0.2/dist/twemoji.min.js" crossorigin="anonymous"></script>
 <style>
   :root{
-    --pitch-1:#0a3a22; --pitch-2:#0c5a32; --pitch-3:#0a7a3d; --grass:#1aa651;
-    --gold:#f4c43c; --gold-deep:#a87f10; --gold-soft:#fdf4d8; --gold-line:#ecd591;
-    --flare:#ff2d78; --red:#e23b3b; --red-soft:#fdecec; --red-line:#f6c9c9;
-    --ink:#13241a; --muted:#5d7167; --line:#e4ebe5; --bg:#eaf0ea; --card:#fff;
+    /* Awakelab 2026 — azules profundos + cianes vivos */
+    --pitch-1:#011932; --pitch-2:#01264C; --pitch-3:#003670; --grass:#11EAEA;
+    --gold:#19F7F1; --gold-deep:#0B93AA; --gold-soft:#D9FBFF; --gold-line:#9fe9ef;
+    --flare:#19F7F1; --red:#e23b3b; --red-soft:#fdecec; --red-line:#f6c9c9;
+    --ink:#012142; --muted:#4E7EA5; --line:#E2E6F2; --bg:#F0F3FC; --card:#fff;
   }
   *{box-sizing:border-box;margin:0;padding:0}
-  body{font-family:"Rubik",system-ui,sans-serif;color:var(--ink);line-height:1.45;-webkit-font-smoothing:antialiased;
-    background:var(--bg);background-image:repeating-linear-gradient(0deg,rgba(12,90,50,.035) 0 26px,rgba(0,0,0,0) 26px 52px)}
+  body{font-family:"Poppins",system-ui,sans-serif;color:var(--ink);line-height:1.45;-webkit-font-smoothing:antialiased;
+    background:var(--bg);background-image:repeating-linear-gradient(0deg,rgba(78,126,165,.05) 0 26px,rgba(0,0,0,0) 26px 52px)}
   .wrap{max-width:1180px;margin:0 auto;padding:0 16px 64px}
 
   /* HERO — cancha de noche con cartel FIFA */
   header{position:relative;overflow:hidden;color:#fff;padding:calc(28px + env(safe-area-inset-top)) 0 30px;
-    background:radial-gradient(120% 130% at 80% -10%,#0e7a42 0%,var(--pitch-2) 45%,var(--pitch-1) 100%)}
-  header .fifa-bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:.30;
+    background:radial-gradient(120% 130% at 80% -10%,#0a5aa5 0%,var(--pitch-2) 48%,var(--pitch-1) 100%)}
+  header .fifa-bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:.26;
     mix-blend-mode:luminosity;pointer-events:none;z-index:0}
   header .veil{position:absolute;inset:0;z-index:0;pointer-events:none;
-    background:linear-gradient(180deg,rgba(8,46,28,.55) 0%,rgba(8,46,28,.30) 45%,rgba(8,46,28,.78) 100%)}
+    background:linear-gradient(180deg,rgba(1,25,50,.58) 0%,rgba(1,25,50,.34) 45%,rgba(1,25,50,.82) 100%)}
   header .pitch{position:absolute;inset:0;width:100%;height:100%;opacity:.40;pointer-events:none;z-index:0}
   .head-inner{max-width:1180px;margin:0 auto;padding:0 16px;position:relative;z-index:1}
-  /* Barra superior: marca a la izquierda, logo Awakelab + menú principal a la derecha */
+  /* Barra superior: marca a la izquierda, menú principal a la derecha */
   .head-top{display:flex;justify-content:space-between;align-items:flex-start;gap:18px;flex-wrap:wrap}
   .head-nav{display:flex;flex-direction:column;align-items:flex-end;gap:10px}
-  .awk-logo{height:30px;width:auto;flex:none;display:block}
   .menu-block{display:flex;flex-direction:column;align-items:flex-end;gap:7px}
-  .menu-label{font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:#bff0cf;font-weight:700}
+  .menu-label{font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:#cfeff5;font-weight:700}
   .menu-row{display:flex;align-items:center;gap:8px;flex-wrap:wrap;justify-content:flex-end}
   .head-controls{display:flex;align-items:center;gap:14px;margin-top:14px;flex-wrap:wrap}
   .brandrow{display:flex;align-items:center;gap:14px}
   .emblem{width:56px;height:56px;border-radius:14px;flex:none;display:grid;place-items:center;
-    font-family:"Anton",sans-serif;font-size:27px;color:#0a2a18;
-    background:linear-gradient(135deg,var(--gold) 0%,#ffdf6e 55%,var(--flare) 180%);
+    font-family:"Poppins",sans-serif;font-weight:800;font-size:27px;color:#0a2a18;
+    background:linear-gradient(135deg,var(--gold) 0%,#11EAEA 55%,#0ABCC9 180%);
     box-shadow:0 6px 20px rgba(0,0,0,.3),inset 0 0 0 2px rgba(255,255,255,.4)}
-  .eyebrow{font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:#bff0cf;font-weight:600;margin-bottom:4px}
-  h1{font-family:"Anton",sans-serif;font-weight:400;text-transform:uppercase;letter-spacing:.01em;
+  .eyebrow{font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:#cfeff5;font-weight:600;margin-bottom:4px}
+  h1{font-family:"Poppins",sans-serif;font-weight:800;font-weight:400;text-transform:uppercase;letter-spacing:.01em;
     font-size:clamp(32px,6.5vw,56px);line-height:.9;text-shadow:0 3px 18px rgba(0,0,0,.28)}
   h1 .y{color:var(--gold)} h1 .ball{font-size:.62em;vertical-align:.1em}
-  .sub{margin-top:12px;color:#d7ebdd;font-size:14px;max-width:600px}
+  .sub{margin-top:10px;color:#cfe0f5;font-size:14px;max-width:600px}
   .stamp{margin-top:14px;display:inline-flex;align-items:center;gap:8px;font-size:12.5px;
-    background:rgba(0,0,0,.22);padding:6px 12px;border-radius:999px;color:#eafff0;border:1px solid rgba(255,255,255,.12)}
+    background:rgba(0,0,0,.22);padding:6px 12px;border-radius:999px;color:#eafdff;border:1px solid rgba(255,255,255,.12)}
   .dot{width:8px;height:8px;border-radius:50%;background:var(--gold);animation:pulse 2s infinite}
-  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(244,196,60,.6)}70%{box-shadow:0 0 0 9px rgba(244,196,60,0)}100%{box-shadow:0 0 0 0 rgba(244,196,60,0)}}
+  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(25,247,241,.6)}70%{box-shadow:0 0 0 9px rgba(25,247,241,0)}100%{box-shadow:0 0 0 0 rgba(25,247,241,0)}}
 
   /* RESUMEN — mini marcadores */
   .summary{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:-22px 0 0;position:relative;z-index:2}
   .chip{background:var(--card);border-radius:14px;padding:16px 18px;border:1px solid var(--line);
-    box-shadow:0 8px 24px rgba(10,58,34,.10);border-top:4px solid var(--grass)}
+    box-shadow:0 8px 24px rgba(1,38,76,.10);border-top:4px solid var(--grass)}
   .chip.gr{border-top-color:var(--gold)} .chip.rd{border-top-color:var(--red)} .chip.bl{border-top-color:var(--pitch-3)}
-  .chip .n{font-family:"Anton",sans-serif;font-size:34px;line-height:1;color:var(--ink)}
+  .chip .n{font-family:"Poppins",sans-serif;font-weight:800;font-size:34px;line-height:1;color:var(--ink)}
   .chip.gr .n{color:var(--gold-deep)} .chip.rd .n{color:var(--red)} .chip.bl .n{color:var(--pitch-3)}
   .chip .l{font-size:12px;color:var(--muted);margin-top:6px;font-weight:600}
   .chip .teams{font-size:12px;color:var(--muted);margin-top:8px;line-height:1.6}
@@ -70,31 +71,37 @@
   .viewswitch{display:flex;gap:8px;align-items:center;margin:24px 0 4px;flex-wrap:wrap}
   .seg{display:inline-flex;background:var(--card);border:1px solid var(--line);border-radius:999px;padding:4px}
   .vbtn{border:0;background:transparent;font-family:inherit;font-size:13.5px;font-weight:700;color:var(--muted);padding:8px 18px;border-radius:999px;cursor:pointer;transition:.15s}
-  .vbtn.on{background:linear-gradient(135deg,var(--pitch-2),var(--pitch-3));color:#fff;box-shadow:0 3px 10px rgba(10,58,34,.25)}
+  .vbtn.on{background:linear-gradient(135deg,var(--pitch-2),var(--pitch-3));color:#fff;box-shadow:0 3px 10px rgba(1,38,76,.25)}
   .reload{margin-left:auto;border:1px solid var(--line);background:var(--card);color:var(--pitch-3);font-family:inherit;font-size:13px;font-weight:700;padding:8px 14px;border-radius:999px;cursor:pointer;display:inline-flex;align-items:center;gap:6px}
   .reload:hover{border-color:var(--grass)}
   .tzbar{display:flex;align-items:center;gap:10px;margin:20px 0 0;flex-wrap:wrap}
   .tz-label{font-size:12px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
   .tzbtn{border:0;background:transparent;font-family:inherit;font-size:13px;font-weight:700;color:var(--muted);padding:7px 14px;border-radius:999px;cursor:pointer;transition:.15s}
-  .tzbtn.on{background:linear-gradient(135deg,var(--gold-deep),var(--gold));color:#3a2c00}
-  .scorers{background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden;margin-top:14px;box-shadow:0 4px 16px rgba(10,58,34,.06)}
-  .sc-head{background:linear-gradient(100deg,var(--pitch-1),var(--pitch-3));color:#fff;padding:11px 16px;font-family:"Anton",sans-serif;font-size:15px;letter-spacing:.5px;text-transform:uppercase;display:flex;align-items:center;gap:8px}
+  .tzbtn.on{background:linear-gradient(135deg,var(--gold-deep),var(--gold));color:#012142}
+  .scorers{background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden;margin-top:14px;box-shadow:0 4px 16px rgba(1,38,76,.06)}
+  .sc-head{background:linear-gradient(100deg,var(--pitch-1),var(--pitch-3));color:#fff;padding:11px 16px;font-family:"Poppins",sans-serif;font-weight:800;font-size:15px;letter-spacing:.5px;text-transform:uppercase;display:flex;align-items:center;gap:8px}
   .podium{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--line)}
   .po{background:var(--card);padding:14px 10px;text-align:center}
   .po .medal{font-size:22px;line-height:1}
   .po-name{font-weight:700;font-size:13.5px;margin-top:5px;line-height:1.2}
   .po-team{font-size:11.5px;color:var(--muted);margin-top:2px}
   .po-team .fl{font-size:13px}
-  .po-goals{font-family:"Anton",sans-serif;font-size:30px;color:var(--pitch-3);margin-top:6px;line-height:1}
-  .po-goals span{font-family:"Rubik",sans-serif;font-size:10px;font-weight:600;color:var(--muted);display:block;text-transform:uppercase;letter-spacing:.05em;margin-top:2px}
+  .po-goals{font-family:"Poppins",sans-serif;font-weight:800;font-size:30px;color:var(--pitch-3);margin-top:6px;line-height:1}
+  .po-goals span{font-family:"Poppins",sans-serif;font-size:10px;font-weight:600;color:var(--muted);display:block;text-transform:uppercase;letter-spacing:.05em;margin-top:2px}
   .po1{box-shadow:inset 0 3px 0 var(--gold)} .po1 .po-goals{color:var(--gold-deep)}
   .po2{box-shadow:inset 0 3px 0 #b8c2cc}
   .po3{box-shadow:inset 0 3px 0 #cd8b5b}
+  /* Puestos 4-5: lista compacta bajo el podio (los 3 primeros quedan destacados) */
+  .sc-rest .ro{display:flex;align-items:center;gap:10px;padding:10px 16px;border-top:1px solid var(--line);font-size:13px}
+  .sc-rest .rk{font-family:"Poppins",sans-serif;font-weight:800;color:var(--muted);min-width:20px;text-align:center}
+  .sc-rest .nm{font-weight:700;flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .sc-rest .tm{color:var(--muted);font-size:12px;white-space:nowrap}
+  .sc-rest .gl{font-family:"Poppins",sans-serif;font-weight:800;font-size:18px;color:var(--gold-deep);min-width:18px;text-align:right}
   .ko-round{margin-top:18px}
-  .ko-rhead{background:linear-gradient(100deg,var(--pitch-1),var(--pitch-3));color:#fff;padding:10px 14px;border-radius:10px;display:flex;justify-content:space-between;align-items:center;font-family:"Anton",sans-serif;letter-spacing:.5px;text-transform:uppercase;font-size:14px;box-shadow:0 4px 12px rgba(10,58,34,.18)}
-  .ko-rhead .dates{font-family:"Rubik",sans-serif;font-weight:600;font-size:11.5px;color:#bff0cf;text-transform:none;letter-spacing:0}
-  .ko-final .ko-rhead{background:linear-gradient(100deg,var(--gold-deep),var(--gold));color:#3a2c00}
-  .ko-final .ko-rhead .dates{color:#5a4a1e}
+  .ko-rhead{background:linear-gradient(100deg,var(--pitch-1),var(--pitch-3));color:#fff;padding:10px 14px;border-radius:10px;display:flex;justify-content:space-between;align-items:center;font-family:"Poppins",sans-serif;font-weight:800;letter-spacing:.5px;text-transform:uppercase;font-size:14px;box-shadow:0 4px 12px rgba(1,38,76,.18)}
+  .ko-rhead .dates{font-family:"Poppins",sans-serif;font-weight:600;font-size:11.5px;color:#cfeff5;text-transform:none;letter-spacing:0}
+  .ko-final .ko-rhead{background:linear-gradient(100deg,var(--gold-deep),var(--gold));color:#012142}
+  .ko-final .ko-rhead .dates{color:#0a4a55}
   .ko-match{display:flex;align-items:center;gap:10px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 12px;margin-top:8px}
   .ko-match.live{border-color:var(--red-line);background:#fff7f7}
   .ko-date{min-width:66px;font-size:11px;font-weight:700;color:var(--muted);text-align:center;line-height:1.35}
@@ -105,13 +112,13 @@
   .ko-team .fl{font-size:14px}
   .ko-team.tbd{color:var(--muted);font-weight:500;font-style:italic}
   .ko-team.win .nm{font-weight:800;color:var(--pitch-1)}
-  .ko-result{min-width:50px;text-align:center;font-family:"Anton",sans-serif;letter-spacing:1px;font-size:16px;background:var(--pitch-1);color:var(--gold);border-radius:8px;padding:6px 8px}
-  .ko-result.empty{background:#eef3ee;color:var(--muted);font-family:"Rubik",sans-serif;font-weight:700;font-size:14px}
-  .bracket-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;background:linear-gradient(160deg,#0a3a22,#0c5a32);border:1px solid #0c4a2a;border-radius:16px;padding:14px 10px;margin-top:6px}
+  .ko-result{min-width:50px;text-align:center;font-family:"Poppins",sans-serif;font-weight:800;letter-spacing:1px;font-size:16px;background:var(--pitch-1);color:var(--gold);border-radius:8px;padding:6px 8px}
+  .ko-result.empty{background:#eef1f8;color:var(--muted);font-family:"Poppins",sans-serif;font-weight:700;font-size:14px}
+  .bracket-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;background:linear-gradient(160deg,#012142,#01264C);border:1px solid #013a6b;border-radius:16px;padding:14px 10px;margin-top:6px}
   .bracket-head{display:flex;gap:6px;min-width:900px;margin-bottom:10px}
   .bracket-head>div{flex:1;display:flex;flex-direction:column;align-items:center;line-height:1.2}
-  .h-lbl{font-family:"Anton",sans-serif;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:#bff0cf}
-  .h-d{font-size:9px;color:#8fb6a0;font-weight:600;margin-top:1px}
+  .h-lbl{font-family:"Poppins",sans-serif;font-weight:800;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:#cfeff5}
+  .h-d{font-size:9px;color:#7fa6c9;font-weight:600;margin-top:1px}
   .bracket{display:flex;gap:6px;min-width:900px;align-items:stretch}
   .bcol{flex:1;display:flex;flex-direction:column;justify-content:space-around;gap:8px}
   .btie{display:flex;flex-direction:column;gap:4px;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);border-radius:10px;padding:6px}
@@ -122,17 +129,17 @@
   .sphere{width:36px;height:36px;border-radius:50%;display:grid;place-items:center;font-size:18px;background:#fff;border:2px solid rgba(255,255,255,.5);flex:none;box-shadow:0 2px 6px rgba(0,0,0,.25)}
   .sphere.tbd{background:rgba(255,255,255,.07);border:2px dashed rgba(255,255,255,.25)}
   .comp.win .sphere{border-color:var(--gold);box-shadow:0 0 0 3px rgba(244,196,60,.55)}
-  .code{flex:1;font-family:"Anton",sans-serif;font-size:12px;letter-spacing:.5px;color:#eafff0;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .code{flex:1;font-family:"Poppins",sans-serif;font-weight:800;font-size:12px;letter-spacing:.5px;color:#eafdff;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
   .bcol.right .code{text-align:right}
   .comp.win .code{color:var(--gold)}
-  .score{font-family:"Anton",sans-serif;font-size:15px;color:var(--gold);min-width:14px;text-align:center}
+  .score{font-family:"Poppins",sans-serif;font-weight:800;font-size:15px;color:var(--gold);min-width:14px;text-align:center}
   .bcenter{justify-content:center;align-items:center;text-align:center;gap:3px}
   .trophy{font-size:44px;line-height:1;filter:drop-shadow(0 4px 10px rgba(0,0,0,.45))}
-  .c-final{font-family:"Anton",sans-serif;font-size:17px;color:var(--gold);letter-spacing:1px;text-transform:uppercase}
-  .c-date{font-size:10.5px;color:#bff0cf;font-weight:600;margin-bottom:4px}
+  .c-final{font-family:"Poppins",sans-serif;font-weight:800;font-size:17px;color:var(--gold);letter-spacing:1px;text-transform:uppercase}
+  .c-date{font-size:10.5px;color:#cfeff5;font-weight:600;margin-bottom:4px}
   .bcenter .final-tie{background:rgba(244,196,60,.12);border-color:var(--gold);min-width:120px}
-  .champ{font-family:"Anton",sans-serif;font-size:13px;color:#fff;margin-top:6px}
-  .c-third{font-size:9.5px;color:#9fc7ad;text-transform:uppercase;letter-spacing:.05em;margin-top:12px}
+  .champ{font-family:"Poppins",sans-serif;font-weight:800;font-size:13px;color:#fff;margin-top:6px}
+  .c-third{font-size:9.5px;color:#9fb8d6;text-transform:uppercase;letter-spacing:.05em;margin-top:12px}
   .bcenter .third-tie{margin-top:4px;min-width:110px}
   /* Bracket v2: dieciseisavos, conectores y casilla de hora */
   .bracket-head{min-width:1240px;gap:0}
@@ -141,7 +148,7 @@
   .pair{flex:1;display:flex;flex-direction:column;position:relative}
   .slot{flex:1;display:flex;align-items:center;justify-content:center;position:relative;padding:5px 0}
   .btie{width:100%}
-  .btime{margin-top:5px;text-align:center;font-size:9px;font-weight:700;color:#bff0cf;background:rgba(255,255,255,.08);border-radius:6px;padding:2px 4px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .btime{margin-top:5px;text-align:center;font-size:9px;font-weight:700;color:#cfeff5;background:rgba(255,255,255,.08);border-radius:6px;padding:2px 4px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
   .btime.lv{color:#fff;background:rgba(226,59,59,.55)}
   .bcol.left .pair::before{content:"";position:absolute;left:100%;top:25%;bottom:25%;width:2px;background:rgba(255,255,255,.3)}
   .bcol.left .pair::after{content:"";position:absolute;left:100%;top:50%;transform:translateY(-50%);width:18px;height:2px;background:rgba(255,255,255,.3)}
@@ -165,19 +172,19 @@
   details.fmt summary::-webkit-details-marker{display:none}
   details.fmt summary::before{content:"+";color:var(--grass);font-weight:800;font-size:18px}
   details.fmt[open] summary::before{content:"–"}
-  .fmt-body{padding:0 18px 18px;font-size:13.5px;color:#3c4f44;line-height:1.6}
+  .fmt-body{padding:0 18px 18px;font-size:13.5px;color:#3a4a63;line-height:1.6}
   .fmt-body b{color:var(--pitch-1)}
-  .analogy{margin-top:10px;border-left:3px solid var(--gold);background:var(--gold-soft);padding:10px 14px;border-radius:0 8px 8px 0;font-size:13px;color:#5a4a1e}
+  .analogy{margin-top:10px;border-left:3px solid var(--gold);background:var(--gold-soft);padding:10px 14px;border-radius:0 8px 8px 0;font-size:13px;color:#0a4a55}
 
   /* TARJETAS DE GRUPO */
   .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:16px;margin-top:18px}
   .gcard{background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden;display:flex;flex-direction:column;
-    box-shadow:0 4px 16px rgba(10,58,34,.06);transition:transform .2s,box-shadow .2s}
+    box-shadow:0 4px 16px rgba(1,38,76,.06);transition:transform .2s,box-shadow .2s}
   .gcard.hide{display:none}
-  .gcard:hover{box-shadow:0 12px 30px rgba(10,58,34,.16);transform:translateY(-3px)}
+  .gcard:hover{box-shadow:0 12px 30px rgba(1,38,76,.16);transform:translateY(-3px)}
   .gc-head{background:linear-gradient(100deg,var(--pitch-1),var(--pitch-3));color:#fff;padding:12px 16px}
-  .gc-head .gl{font-family:"Anton",sans-serif;font-weight:400;font-size:17px;letter-spacing:.6px;text-transform:uppercase;display:flex;align-items:baseline;gap:8px}
-  .gc-head .gl small{font-family:"Rubik",sans-serif;font-weight:500;color:#bff0cf;font-size:11.5px;text-transform:none;letter-spacing:0}
+  .gc-head .gl{font-family:"Poppins",sans-serif;font-weight:800;font-weight:400;font-size:17px;letter-spacing:.6px;text-transform:uppercase;display:flex;align-items:baseline;gap:8px}
+  .gc-head .gl small{font-family:"Poppins",sans-serif;font-weight:500;color:#cfeff5;font-size:11.5px;text-transform:none;letter-spacing:0}
   .toggle{display:flex;border-bottom:1px solid var(--line)}
   .toggle button{flex:1;border:0;background:transparent;font-family:inherit;font-size:12.5px;font-weight:700;color:var(--muted);padding:9px;cursor:pointer;border-bottom:2px solid transparent;transition:.15s}
   .toggle button.on{color:var(--pitch-1);border-bottom-color:var(--grass)}
@@ -185,31 +192,31 @@
   table{width:100%;border-collapse:collapse;font-size:12.5px}
   thead th{font-size:10px;text-transform:uppercase;letter-spacing:.03em;color:var(--muted);font-weight:700;padding:8px 3px;text-align:center;border-bottom:1px solid var(--line)}
   thead th.tname{text-align:left;padding-left:12px}
-  tbody td{padding:9px 3px;text-align:center;border-bottom:1px solid #eef3ee}
+  tbody td{padding:9px 3px;text-align:center;border-bottom:1px solid #eef1f8}
   tbody tr:nth-child(2) td{border-bottom:2px solid var(--grass)}
   tbody tr:last-child td{border-bottom:0}
   td.tname{text-align:left;padding-left:10px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:120px}
   td.tname .fl{margin-right:6px;font-size:14px}
-  td.pts{font-weight:800;font-family:"Anton",sans-serif;font-size:15px;letter-spacing:.5px}
+  td.pts{font-weight:800;font-family:"Poppins",sans-serif;font-weight:800;font-size:15px;letter-spacing:.5px}
   td.dg{color:var(--muted)}
   .pos{font-weight:800;color:var(--muted);width:18px}
   tr.q{background:var(--gold-soft)} tr.q .pos{color:var(--gold-deep)} tr.q td.tname{box-shadow:inset 3px 0 0 var(--gold)}
   tr.e{background:var(--red-soft);opacity:.92} tr.e td.tname{text-decoration:line-through;text-decoration-color:var(--red-line);color:#9a4a4a}
   tr.e .pos{color:var(--red)}
   .badge{display:inline-block;font-size:8.5px;font-weight:800;padding:2px 6px;border-radius:5px;margin-left:5px;vertical-align:middle;text-transform:uppercase;letter-spacing:.03em}
-  .badge.q{background:var(--gold);color:#5a4300} .badge.e{background:var(--red);color:#fff} .badge.lead{background:var(--pitch-3);color:#fff}
+  .badge.q{background:var(--gold);color:#012142} .badge.e{background:var(--red);color:#fff} .badge.lead{background:var(--pitch-3);color:#fff}
 
   /* PARTIDOS */
   .matches{display:none;padding:6px 14px 14px}
   .matches.show{display:block}
   .mblock-title{font-size:10.5px;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);font-weight:800;margin:12px 0 6px}
-  .m{display:flex;align-items:center;gap:8px;padding:7px 0;border-bottom:1px solid #f1f5f1;font-size:12.5px}
+  .m{display:flex;align-items:center;gap:8px;padding:7px 0;border-bottom:1px solid #eef1f8;font-size:12.5px}
   .m:last-child{border-bottom:0}
   .m .t{flex:1;display:flex;align-items:center;gap:6px}
   .m .t.r{justify-content:flex-end;text-align:right}
   .m .t.r .fl{order:2} .m .t.r .nm{order:1}
-  .m .sc{font-family:"Anton",sans-serif;letter-spacing:1px;background:var(--pitch-1);color:var(--gold);border-radius:6px;padding:3px 10px;font-size:13px;min-width:48px;text-align:center;box-shadow:inset 0 0 0 1px rgba(255,255,255,.08)}
-  .m.next .sc{background:#eef3ee;color:var(--pitch-2)}
+  .m .sc{font-family:"Poppins",sans-serif;font-weight:800;letter-spacing:1px;background:var(--pitch-1);color:var(--gold);border-radius:6px;padding:3px 10px;font-size:13px;min-width:48px;text-align:center;box-shadow:inset 0 0 0 1px rgba(255,255,255,.08)}
+  .m.next .sc{background:#eef1f8;color:var(--pitch-2)}
   .m .winner{font-weight:700}
   .when{font-size:11px;color:var(--pitch-3);font-weight:700;margin-top:2px}
   .when .live{color:var(--red)}
@@ -218,16 +225,16 @@
   /* CALENDARIO */
   .cal-intro{font-size:13px;color:var(--muted);margin:16px 0 4px}
   .cal-day{margin-top:18px}
-  .cal-date{position:sticky;top:0;z-index:3;background:linear-gradient(100deg,var(--pitch-1),var(--pitch-3));color:#fff;font-weight:700;font-size:13.5px;padding:10px 14px;border-radius:10px;display:flex;align-items:center;justify-content:space-between;box-shadow:0 4px 12px rgba(10,58,34,.18)}
+  .cal-date{position:sticky;top:0;z-index:3;background:linear-gradient(100deg,var(--pitch-1),var(--pitch-3));color:#fff;font-weight:700;font-size:13.5px;padding:10px 14px;border-radius:10px;display:flex;align-items:center;justify-content:space-between;box-shadow:0 4px 12px rgba(1,38,76,.18)}
   .cal-date::before{content:"⚽";margin-right:8px}
-  .cal-date .cnt{font-size:11px;font-weight:600;color:#bff0cf}
+  .cal-date .cnt{font-size:11px;font-weight:600;color:#cfeff5}
   .cal-date.today{background:linear-gradient(100deg,var(--gold-deep),var(--gold))}
-  .cal-date.today,.cal-date.today .cnt{color:#3a2c00}
+  .cal-date.today,.cal-date.today .cnt{color:#012142}
   .cal-row{display:flex;align-items:center;gap:10px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:11px 13px;margin-top:8px}
   .cal-row.live{border-color:var(--red-line);background:#fff7f7}
-  .cal-time{min-width:62px;font-family:"Anton",sans-serif;letter-spacing:.5px;font-size:15px;color:var(--pitch-3);text-align:center;line-height:1.2}
-  .cal-time .tbc{font-family:"Rubik",sans-serif;font-size:10px;font-weight:600;color:var(--muted)}
-  .cal-time .lv{font-family:"Rubik",sans-serif;font-size:10px;font-weight:800;color:var(--red);display:block}
+  .cal-time{min-width:62px;font-family:"Poppins",sans-serif;font-weight:800;letter-spacing:.5px;font-size:15px;color:var(--pitch-3);text-align:center;line-height:1.2}
+  .cal-time .tbc{font-family:"Poppins",sans-serif;font-size:10px;font-weight:600;color:var(--muted)}
+  .cal-time .lv{font-family:"Poppins",sans-serif;font-size:10px;font-weight:800;color:var(--red);display:block}
   .cal-grp{font-size:10px;font-weight:800;color:#fff;background:var(--pitch-3);border-radius:6px;padding:3px 7px;white-space:nowrap}
   .cal-match{flex:1;display:flex;align-items:center;gap:7px;font-size:13px;font-weight:600;flex-wrap:wrap}
   .cal-match .vs{color:var(--muted);font-size:11px;font-weight:600}
@@ -241,26 +248,38 @@
   .sw.l{background:var(--pitch-3)}
   footer{margin-top:28px;padding-top:18px;border-top:1px solid var(--line);font-size:12px;color:var(--muted);line-height:1.7}
   footer b{color:var(--pitch-1)}
-  .tzbox{background:#eaf6ee;border:1px solid #c7e6d2;border-radius:10px;padding:12px 14px;margin-top:14px;font-size:12.5px;color:#1f4a30}
+  footer a{color:var(--gold-deep);font-weight:700;text-decoration:none}
+  footer a:hover{text-decoration:underline}
+  .reload-bottom{display:flex;justify-content:flex-end;margin-top:18px}
+  /* Crédito Awakelab al pie */
+  .awk-credit{display:flex;align-items:center;justify-content:center;gap:14px;flex-wrap:wrap;text-align:center;
+    margin-top:20px;padding-top:18px;border-top:1px solid var(--line)}
+  .awk-credit img{height:34px;width:auto;flex:none}
+  .awk-credit span{font-size:13.5px;font-weight:600;color:var(--pitch-2)}
+  /* Twemoji: banderas y emoji como imágenes (consistentes en Windows, etc.) */
+  img.emoji{height:1em;width:1em;margin:0 .06em 0 .1em;vertical-align:-.12em;display:inline-block}
+  .tzbox{background:#e6f9fb;border:1px solid #b6ebef;border-radius:10px;padding:12px 14px;margin-top:14px;font-size:12.5px;color:#06414a}
   .install{display:none;margin:14px 0 0}
-  .install button{background:var(--gold);color:#3a2c00;border:0;font-family:inherit;font-weight:700;font-size:13px;padding:10px 16px;border-radius:10px;cursor:pointer}
+  .install button{background:var(--gold);color:#012142;border:0;font-family:inherit;font-weight:700;font-size:13px;padding:10px 16px;border-radius:10px;cursor:pointer}
   .hidden{display:none!important}
   :focus-visible{outline:3px solid var(--gold);outline-offset:2px}
 
-  /* Header oscuro: la barra de horarios y el sello viven dentro del hero */
+  /* Header oscuro: estado + actualizar arriba a la derecha; horarios solo en Calendario */
+  .status-row{display:flex;align-items:center;gap:10px;justify-content:flex-end;flex-wrap:wrap}
+  .status-row .stamp{margin-top:0}
+  .status-row .reload{margin-left:0}
+  .head-controls{margin-top:16px}
   .head-controls .tzbar{margin:0}
-  .head-controls .tz-label{color:#bff0cf}
-  .head-controls .stamp{margin-top:0}
-  .head-nav .reload{margin-left:0}
+  .head-controls .tz-label{color:#cfeff5}
 
   @media(max-width:820px){
     .head-top{flex-direction:column;align-items:stretch}
     .head-nav{align-items:flex-start}
+    .status-row{justify-content:flex-start}
     .menu-block{align-items:flex-start}
     .menu-row{justify-content:flex-start}
   }
-  @media(max-width:520px){.grid{grid-template-columns:1fr}.summary{grid-template-columns:1fr 1fr}.reload{margin-left:0}
-    .awk-logo{height:26px}}
+  @media(max-width:520px){.grid{grid-template-columns:1fr}.summary{grid-template-columns:1fr 1fr}.reload{margin-left:0}}
   @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 </style>
 </head>
@@ -285,25 +304,25 @@
         <div>
           <div class="eyebrow">Copa Mundial de la FIFA · Canadá · México · EE.UU.</div>
           <h1>Mundial <span class="y">2026</span><span class="ball"> ⚽</span></h1>
+          <p class="sub">Resultados, posiciones y el calendario de los próximos partidos.</p>
         </div>
       </div>
       <div class="head-nav">
-        <img class="awk-logo" src="https://media.awakelab.world/MARCA_AWK26/awakelab_logo_fondo-oscuro_transparente.png" alt="Awakelab">
+        <div class="status-row">
+          <div class="stamp"><span class="dot"></span> <span id="stamp">Cargando…</span></div>
+        </div>
         <div class="menu-block">
-          <span class="menu-label">Menú</span>
           <div class="menu-row">
             <div class="seg">
               <button class="vbtn on" data-view="grupos">Grupos</button>
               <button class="vbtn" data-view="calendario">Calendario</button>
               <button class="vbtn" data-view="eliminatorias">Eliminatorias</button>
             </div>
-            <button class="reload" id="reload">↻ Actualizar</button>
           </div>
         </div>
       </div>
     </div>
-    <p class="sub">Resultados, posiciones y el calendario de los próximos partidos.</p>
-    <div class="head-controls">
+    <div class="head-controls hidden" id="tzbarWrap">
       <div class="tzbar">
         <span class="tz-label">Hora:</span>
         <div class="seg tzseg">
@@ -312,7 +331,6 @@
           <button class="tzbtn" data-tz="BR">🇧🇷 Brasil</button>
         </div>
       </div>
-      <div class="stamp"><span class="dot"></span> <span id="stamp">Cargando…</span></div>
     </div>
     <div class="install" id="install"><button id="installBtn">📲 Instalar como app</button></div>
   </div>
@@ -324,6 +342,7 @@
   <section class="scorers" id="scorers">
     <div class="sc-head">🏆 Bota de Oro · Goleadores del torneo</div>
     <div class="podium" id="podium"></div>
+    <div class="sc-rest" id="sc-rest"></div>
   </section>
 
   <!-- VISTA POR GRUPOS -->
@@ -376,8 +395,15 @@
   <footer>
     <span id="foot-fase"></span> Las posiciones y horarios pueden cambiar a medida que se juegan los partidos.
     Esta app se alimenta del archivo <b>data.json</b>, que se actualiza solo cada mañana.<br>
-    Fuentes: FIFA, UEFA, ESPN, Olympics.com y prensa deportiva.
+    Fuentes: <a href="https://www.football-data.org" target="_blank" rel="noopener">www.football-data.org</a> vía API.
+    <div class="awk-credit">
+      <img src="https://media.awakelab.world/MARCA_AWK26/awakelab_logo_fondo-blanco_transparente.png" alt="Awakelab">
+      <span>Creado con pasión por el equipo de Innovación de Awakelab</span>
+    </div>
   </footer>
+  <div class="reload-bottom">
+    <button class="reload" id="reload">↻ Actualizar</button>
+  </div>
 </div>
 
 <!-- Datos embebidos como respaldo (la app usa data.json si está disponible) -->
@@ -403,6 +429,18 @@
       "team": "Alemania",
       "fl": "🇩🇪",
       "goals": 3
+    },
+    {
+      "n": "Kylian Mbappé",
+      "team": "Francia",
+      "fl": "🇫🇷",
+      "goals": 2
+    },
+    {
+      "n": "Harry Kane",
+      "team": "Inglaterra",
+      "fl": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "goals": 2
     }
   ],
   "knockout": [
@@ -2106,20 +2144,48 @@ function renderKnockout(data){
     ${paired("coct",oct.slice(4,8),"right")}
     ${paired("c16",d16.slice(8,16),"right")}
   </div>`;
-  box.innerHTML=`<div class="bracket-wrap">${head}${bracket}</div>`;
+  box.innerHTML=`<div class="bracket-wrap"><div class="bracket-fit">${head}${bracket}</div></div>`;
+  fitBracket();
+}
+// Escala el cuadro de eliminatorias para que quepa completo sin scroll lateral
+function fitBracket(){
+  const wrap=document.querySelector("#knockout .bracket-wrap");
+  const fit=document.querySelector("#knockout .bracket-fit");
+  if(!wrap||!fit||!wrap.clientWidth) return;       // oculto o aún sin medidas
+  fit.style.transform="none"; wrap.style.height=""; wrap.style.overflowX="auto";
+  const cs=getComputedStyle(wrap);
+  const padL=parseFloat(cs.paddingLeft), padR=parseFloat(cs.paddingRight);
+  const avail=wrap.clientWidth - padL - padR;
+  // ancho real del contenido (incluye conectores/pseudo-elementos) + margen de seguridad
+  const natW=Math.max(fit.scrollWidth, wrap.scrollWidth - padL) + 6;
+  const scale=Math.min(1, avail/natW);
+  fit.style.transformOrigin="top left";
+  fit.style.transform=`scale(${scale})`;
+  if(scale<1){
+    wrap.style.overflowX="hidden";
+    wrap.style.height=(fit.getBoundingClientRect().height + parseFloat(cs.paddingTop) + parseFloat(cs.paddingBottom))+"px";
+  }
 }
 function renderScorers(data){
   const box=document.getElementById("scorers");
-  const list=(data.scorers||[]).slice(0,3);
+  const list=(data.scorers||[]).slice(0,5);
   if(!list.length){ box.style.display="none"; return; }
   box.style.display="";
   const medals=["🥇","🥈","🥉"];
-  document.getElementById("podium").innerHTML = list.map((s,i)=>`
+  const top=list.slice(0,3), rest=list.slice(3,5);
+  document.getElementById("podium").innerHTML = top.map((s,i)=>`
     <div class="po po${i+1}">
       <div class="medal">${medals[i]}</div>
       <div class="po-name">${s.n}</div>
       <div class="po-team"><span class="fl">${s.fl}</span> ${s.team}</div>
       <div class="po-goals">${s.goals}<span>${s.goals===1?"gol":"goles"}</span></div>
+    </div>`).join("");
+  document.getElementById("sc-rest").innerHTML = rest.map((s,i)=>`
+    <div class="ro">
+      <span class="rk">${i+4}</span>
+      <span class="nm">${s.n}</span>
+      <span class="tm"><span class="fl">${s.fl}</span> ${s.team}</span>
+      <span class="gl">${s.goals}</span>
     </div>`).join("");
 }
 function renderSummary(data){
@@ -2139,6 +2205,39 @@ function renderSummary(data){
       <div class="teams">1º y 2º de cada grupo + 8 mejores terceros</div></div>
     <div class="chip"><div class="n">${data.grupos.length}</div><div class="l">Grupos · 4 equipos c/u</div>
       <div class="teams">Fin de fase de grupos: 27 de junio</div></div>`;
+}
+// Vista Calendario: las 4 cajas muestran los partidos del día (con fecha)
+function renderDayChips(data){
+  const all=[];
+  data.grupos.forEach(g=>g.next.forEach(m=>all.push(Object.assign({grp:g.id},m))));
+  const byDate={};
+  all.forEach(m=>{ const dt=instant(m); const key=dt?zoneKey(dt):m.date; (byDate[key]=byDate[key]||[]).push(m); });
+  const dates=Object.keys(byDate).sort();
+  const summary=document.getElementById("summary");
+  if(!dates.length){ summary.innerHTML=`<div class="chip"><div class="l">No hay próximos partidos cargados.</div></div>`; return; }
+  const todayK=zoneKey(new Date());
+  const dayKey=dates.includes(todayK) ? todayK : (dates.find(d=>d>=todayK) || dates[dates.length-1]);
+  const isToday=dayKey===todayK;
+  const dayTxt=(isToday?"Hoy · ":"")+labelFromKey(dayKey).short;
+  const items=byDate[dayKey]
+    .sort((a,b)=>{ const ta=instant(a),tb=instant(b); return (ta?ta.getTime():Infinity)-(tb?tb.getTime():Infinity); })
+    .slice(0,4);
+  summary.innerHTML = items.map(m=>{
+    const dt=instant(m), live=m.live;
+    const big = live ? "🔴" : (dt ? zoneTime(dt) : "—");
+    const note = live ? " · EN JUEGO" : (dt ? "" : " · por confirmar");
+    return `<div class="chip ${live?'rd':''}">
+      <div class="n">${big}</div>
+      <div class="l">${dayTxt} · Grupo ${m.grp}${note}</div>
+      <div class="teams"><span class="fl">${m.fa}</span> ${m.a} <b>vs</b> <span class="fl">${m.fb}</span> ${m.b}</div>
+    </div>`;
+  }).join("");
+}
+// Elige qué información va en las 4 cajas según la vista activa
+function updateSummary(){
+  if(!DATA) return;
+  if(CURVIEW==="calendario") renderDayChips(DATA);
+  else renderSummary(DATA);
 }
 
 function fmtStamp(iso){
@@ -2165,14 +2264,25 @@ function bindFilters(){
   });
 }
 
+// Reemplaza los emoji (banderas, medallas, balón…) por imágenes Twemoji,
+// para que se vean igual en cualquier sistema (Windows no renderiza banderas).
+function paintEmoji(){
+  if(window.twemoji) twemoji.parse(document.body,{
+    base:"https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/",
+    folder:"svg", ext:".svg"
+  });
+}
+
 let DATA=null;
+let CURVIEW="grupos";
 function renderAll(data){
   DATA=data;
-  renderSummary(data);
+  updateSummary();
   renderScorers(data);
   renderGroups(data);
   renderCalendar(data);
   renderKnockout(data);
+  paintEmoji();
 }
 
 // Cambio de vista grupos / calendario
@@ -2183,7 +2293,21 @@ document.querySelectorAll(".vbtn").forEach(b=>b.addEventListener("click",()=>{
   document.getElementById("view-grupos").classList.toggle("hidden", v!=="grupos");
   document.getElementById("view-calendario").classList.toggle("hidden", v!=="calendario");
   document.getElementById("view-eliminatorias").classList.toggle("hidden", v!=="eliminatorias");
+  // El selector de zona horaria solo tiene sentido en el Calendario
+  document.getElementById("tzbarWrap").classList.toggle("hidden", v!=="calendario");
+  // El Balón de Oro (goleadores) no se muestra en el Calendario
+  document.getElementById("scorers").classList.toggle("hidden", v==="calendario");
+  // Las 4 cajas: stats en Grupos/Eliminatorias, partidos del día en Calendario
+  CURVIEW=v;
+  updateSummary();
+  paintEmoji();
+  // El cuadro de eliminatorias solo se puede medir/escalar cuando es visible
+  if(v==="eliminatorias") requestAnimationFrame(fitBracket);
 }));
+
+// Reescala el cuadro de eliminatorias al cambiar el tamaño de la ventana
+let _fitRAF;
+window.addEventListener("resize",()=>{ cancelAnimationFrame(_fitRAF); _fitRAF=requestAnimationFrame(fitBracket); });
 
 // Selector de país (zona horaria)
 document.querySelectorAll(".tzbtn").forEach(b=>b.addEventListener("click",()=>{

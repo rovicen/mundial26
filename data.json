@@ -1,5 +1,5 @@
 {
-  "actualizadoEn": "24/06/2026, 08:45 p.m.",
+  "actualizadoEn": "24/06/2026, 08:51 p.m.",
   "totalPartidos": 0,
   "partidos": [
     {
@@ -2080,9 +2080,9 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "homeTeam": {
-        "id": 759,
-        "name": "Germany",
-        "shortName": "Germany"
+        "id": null,
+        "name": null,
+        "shortName": null
       },
       "awayTeam": {
         "id": null,
@@ -2192,9 +2192,9 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "homeTeam": {
-        "id": 769,
-        "name": "Mexico",
-        "shortName": "Mexico"
+        "id": null,
+        "name": null,
+        "shortName": null
       },
       "awayTeam": {
         "id": null,
@@ -2276,9 +2276,9 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "homeTeam": {
-        "id": 771,
-        "name": "United States",
-        "shortName": "USA"
+        "id": null,
+        "name": null,
+        "shortName": null
       },
       "awayTeam": {
         "id": null,
@@ -2416,9 +2416,9 @@
       "status": "TIMED",
       "stage": "LAST_32",
       "homeTeam": {
-        "id": 762,
-        "name": "Argentina",
-        "shortName": "Argentina"
+        "id": null,
+        "name": null,
+        "shortName": null
       },
       "awayTeam": {
         "id": null,

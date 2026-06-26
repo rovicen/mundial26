@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T23:11:54.124Z",
+  "lastUpdated": "2026-06-26T02:46:02.608Z",
   "fase": "Eliminatorias en curso",
   "grupos": [
     {
@@ -325,51 +325,51 @@
     },
     {
       "id": "D",
-      "state": "En curso",
+      "state": "United States ya clasificado",
       "teams": [
         {
           "n": "United States",
           "fl": "🇴🇲",
-          "pj": 2,
+          "pj": 3,
           "g": 2,
-          "e": 0,
+          "e": 1,
           "p": 0,
           "dg": "+5",
-          "pts": 6,
-          "st": ""
+          "pts": 7,
+          "st": "q"
         },
         {
           "n": "Australia",
           "fl": "🇠🇴",
-          "pj": 2,
+          "pj": 3,
           "g": 1,
-          "e": 0,
+          "e": 1,
           "p": 1,
           "dg": "+0",
-          "pts": 3,
+          "pts": 4,
           "st": ""
         },
         {
           "n": "Paraguay",
           "fl": "🇯🇠",
-          "pj": 2,
+          "pj": 3,
           "g": 1,
-          "e": 0,
+          "e": 1,
           "p": 1,
           "dg": "-2",
-          "pts": 3,
+          "pts": 4,
           "st": ""
         },
         {
           "n": "Turkey",
           "fl": "🇳🇱",
-          "pj": 2,
+          "pj": 3,
           "g": 0,
-          "e": 0,
+          "e": 1,
           "p": 2,
           "dg": "-3",
-          "pts": 0,
-          "st": ""
+          "pts": 1,
+          "st": "e"
         }
       ],
       "res": [
@@ -408,26 +408,27 @@
           "s": "0-1",
           "w": "b",
           "live": false
-        }
-      ],
-      "next": [
+        },
         {
           "a": "Turkey",
           "fa": "🇳🇱",
           "b": "United States",
           "fb": "🇴🇲",
-          "date": "2026-06-26",
-          "time": "02:00"
+          "s": "2-1",
+          "w": "",
+          "live": true
         },
         {
           "a": "Paraguay",
           "fa": "🇯🇠",
           "b": "Australia",
           "fb": "🇠🇴",
-          "date": "2026-06-26",
-          "time": "02:00"
+          "s": "0-0",
+          "w": "",
+          "live": true
         }
-      ]
+      ],
+      "next": []
     },
     {
       "id": "E",
@@ -544,11 +545,11 @@
           "n": "Netherlands",
           "fl": "🇭🇤",
           "pj": 3,
-          "g": 1,
-          "e": 2,
+          "g": 2,
+          "e": 1,
           "p": 0,
-          "dg": "+4",
-          "pts": 5,
+          "dg": "+6",
+          "pts": 7,
           "st": "q"
         },
         {
@@ -578,10 +579,10 @@
           "fl": "🇳🇭",
           "pj": 3,
           "g": 0,
-          "e": 1,
-          "p": 2,
-          "dg": "-8",
-          "pts": 1,
+          "e": 0,
+          "p": 3,
+          "dg": "-10",
+          "pts": 0,
           "st": "e"
         }
       ],
@@ -627,18 +628,18 @@
           "fa": "🇳🇭",
           "b": "Netherlands",
           "fb": "🇭🇤",
-          "s": "0-2",
-          "w": "",
-          "live": true
+          "s": "1-3",
+          "w": "b",
+          "live": false
         },
         {
           "a": "Japan",
           "fa": "🇩🇯",
           "b": "Sweden",
           "fb": "🇲🇤",
-          "s": "0-0",
-          "w": "",
-          "live": true
+          "s": "1-1",
+          "w": "e",
+          "live": false
         }
       ],
       "next": []

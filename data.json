@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T02:46:02.608Z",
+  "lastUpdated": "2026-06-26T07:44:44.860Z",
   "fase": "Eliminatorias en curso",
   "grupos": [
     {
@@ -332,10 +332,10 @@
           "fl": "🇴🇲",
           "pj": 3,
           "g": 2,
-          "e": 1,
-          "p": 0,
-          "dg": "+5",
-          "pts": 7,
+          "e": 0,
+          "p": 1,
+          "dg": "+4",
+          "pts": 6,
           "st": "q"
         },
         {
@@ -364,11 +364,11 @@
           "n": "Turkey",
           "fl": "🇳🇱",
           "pj": 3,
-          "g": 0,
-          "e": 1,
+          "g": 1,
+          "e": 0,
           "p": 2,
-          "dg": "-3",
-          "pts": 1,
+          "dg": "-2",
+          "pts": 3,
           "st": "e"
         }
       ],
@@ -414,9 +414,9 @@
           "fa": "🇳🇱",
           "b": "United States",
           "fb": "🇴🇲",
-          "s": "2-1",
-          "w": "",
-          "live": true
+          "s": "3-2",
+          "w": "a",
+          "live": false
         },
         {
           "a": "Paraguay",
@@ -424,8 +424,8 @@
           "b": "Australia",
           "fb": "🇠🇴",
           "s": "0-0",
-          "w": "",
-          "live": true
+          "w": "e",
+          "live": false
         }
       ],
       "next": []

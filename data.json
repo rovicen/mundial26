@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T17:42:41.889Z",
+  "lastUpdated": "2026-06-26T19:40:02.362Z",
   "fase": "Eliminatorias en curso",
   "grupos": [
     {
@@ -858,51 +858,51 @@
     },
     {
       "id": "I",
-      "state": "En curso",
+      "state": "France ya clasificado",
       "teams": [
         {
           "n": "France",
           "fl": "🇥🇱",
-          "pj": 2,
-          "g": 2,
+          "pj": 3,
+          "g": 3,
           "e": 0,
           "p": 0,
-          "dg": "+5",
-          "pts": 6,
-          "st": ""
+          "dg": "+6",
+          "pts": 9,
+          "st": "q"
         },
         {
           "n": "Norway",
           "fl": "🇭🇮",
-          "pj": 2,
+          "pj": 3,
           "g": 2,
           "e": 0,
-          "p": 0,
-          "dg": "+4",
+          "p": 1,
+          "dg": "+3",
           "pts": 6,
           "st": ""
         },
         {
           "n": "Senegal",
           "fl": "🇲🇭",
-          "pj": 2,
-          "g": 0,
+          "pj": 3,
+          "g": 1,
           "e": 0,
           "p": 2,
-          "dg": "-3",
-          "pts": 0,
+          "dg": "-2",
+          "pts": 3,
           "st": ""
         },
         {
           "n": "Iraq",
           "fl": "🇨🇰",
-          "pj": 2,
+          "pj": 3,
           "g": 0,
           "e": 0,
-          "p": 2,
-          "dg": "-6",
+          "p": 3,
+          "dg": "-7",
           "pts": 0,
-          "st": ""
+          "st": "e"
         }
       ],
       "res": [
@@ -943,24 +943,7 @@
           "live": false
         }
       ],
-      "next": [
-        {
-          "a": "Norway",
-          "fa": "🇭🇮",
-          "b": "France",
-          "fb": "🇥🇱",
-          "date": "2026-06-26",
-          "time": "19:00"
-        },
-        {
-          "a": "Senegal",
-          "fa": "🇲🇭",
-          "b": "Iraq",
-          "fb": "🇨🇰",
-          "date": "2026-06-26",
-          "time": "19:00"
-        }
-      ]
+      "next": []
     },
     {
       "id": "J",
@@ -1515,6 +1498,12 @@
       "goals": 4
     },
     {
+      "n": "Ousmane Dembélé",
+      "team": "France",
+      "fl": "🇥🇱",
+      "goals": 4
+    },
+    {
       "n": "Ismael Saibari",
       "team": "Morocco",
       "fl": "🇬🇠",
@@ -1542,12 +1531,6 @@
       "n": "Matheus Cunha",
       "team": "Brazil",
       "fl": "🇡🇱",
-      "goals": 3
-    },
-    {
-      "n": "Brian Brobbey",
-      "team": "Netherlands",
-      "fl": "🇭🇤",
       "goals": 3
     }
   ]

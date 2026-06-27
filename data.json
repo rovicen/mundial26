@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T20:54:41.339Z",
+  "lastUpdated": "2026-06-27T22:58:03.531Z",
   "fase": "Eliminatorias en curso",
   "grupos": [
     {
@@ -1179,51 +1179,51 @@
     },
     {
       "id": "L",
-      "state": "En curso",
+      "state": "England ya clasificado",
       "teams": [
         {
           "n": "England",
           "fl": "🇦🇡",
-          "pj": 2,
-          "g": 1,
+          "pj": 3,
+          "g": 2,
           "e": 1,
           "p": 0,
-          "dg": "+2",
-          "pts": 4,
+          "dg": "+4",
+          "pts": 7,
+          "st": "q"
+        },
+        {
+          "n": "Croatia",
+          "fl": "🇢🇱",
+          "pj": 3,
+          "g": 2,
+          "e": 0,
+          "p": 1,
+          "dg": "+0",
+          "pts": 6,
           "st": ""
         },
         {
           "n": "Ghana",
           "fl": "🇦🇧",
-          "pj": 2,
+          "pj": 3,
           "g": 1,
           "e": 1,
-          "p": 0,
-          "dg": "+1",
-          "pts": 4,
-          "st": ""
-        },
-        {
-          "n": "Croatia",
-          "fl": "🇢🇱",
-          "pj": 2,
-          "g": 1,
-          "e": 0,
           "p": 1,
-          "dg": "-1",
-          "pts": 3,
+          "dg": "+0",
+          "pts": 4,
           "st": ""
         },
         {
           "n": "Panama",
           "fl": "🇯🇠",
-          "pj": 2,
+          "pj": 3,
           "g": 0,
           "e": 0,
-          "p": 2,
-          "dg": "-2",
+          "p": 3,
+          "dg": "-4",
           "pts": 0,
-          "st": ""
+          "st": "e"
         }
       ],
       "res": [
@@ -1262,26 +1262,27 @@
           "s": "0-1",
           "w": "b",
           "live": false
-        }
-      ],
-      "next": [
+        },
         {
           "a": "Panama",
           "fa": "🇯🇠",
           "b": "England",
           "fb": "🇦🇡",
-          "date": "2026-06-27",
-          "time": "21:00"
+          "s": "0-2",
+          "w": "",
+          "live": true
         },
         {
           "a": "Croatia",
           "fa": "🇢🇱",
           "b": "Ghana",
           "fb": "🇦🇧",
-          "date": "2026-06-27",
-          "time": "21:00"
+          "s": "2-1",
+          "w": "",
+          "live": true
         }
-      ]
+      ],
+      "next": []
     }
   ],
   "knockout": [
@@ -1542,15 +1543,15 @@
       "goals": 3
     },
     {
-      "n": "Johan Manzambi",
-      "team": "Switzerland",
-      "fl": "🇲🇴",
+      "n": "Harry Kane",
+      "team": "England",
+      "fl": "🇦🇡",
       "goals": 3
     },
     {
-      "n": "Jonathan David",
-      "team": "Canada",
-      "fl": "🇢🇠",
+      "n": "Johan Manzambi",
+      "team": "Switzerland",
+      "fl": "🇲🇴",
       "goals": 3
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T23:00:46.980Z",
+  "lastUpdated": "2026-06-27T02:37:21.012Z",
   "fase": "Eliminatorias en curso",
   "grupos": [
     {
@@ -752,51 +752,51 @@
     },
     {
       "id": "H",
-      "state": "En curso",
+      "state": "Spain ya clasificado",
       "teams": [
         {
           "n": "Spain",
           "fl": "🇤🇲",
-          "pj": 2,
-          "g": 1,
+          "pj": 3,
+          "g": 2,
           "e": 1,
           "p": 0,
-          "dg": "+4",
-          "pts": 4,
+          "dg": "+5",
+          "pts": 7,
+          "st": "q"
+        },
+        {
+          "n": "Cape Verde Islands",
+          "fl": "🇢🇯",
+          "pj": 3,
+          "g": 0,
+          "e": 3,
+          "p": 0,
+          "dg": "+0",
+          "pts": 3,
           "st": ""
         },
         {
           "n": "Uruguay",
           "fl": "🇴🇱",
-          "pj": 2,
+          "pj": 3,
           "g": 0,
           "e": 2,
-          "p": 0,
-          "dg": "+0",
-          "pts": 2,
-          "st": ""
-        },
-        {
-          "n": "Cape Verde Islands",
-          "fl": "🇢🇯",
-          "pj": 2,
-          "g": 0,
-          "e": 2,
-          "p": 0,
-          "dg": "+0",
+          "p": 1,
+          "dg": "-1",
           "pts": 2,
           "st": ""
         },
         {
           "n": "Saudi Arabia",
           "fl": "🇪🇲",
-          "pj": 2,
+          "pj": 3,
           "g": 0,
-          "e": 1,
+          "e": 2,
           "p": 1,
           "dg": "-4",
-          "pts": 1,
-          "st": ""
+          "pts": 2,
+          "st": "e"
         }
       ],
       "res": [
@@ -835,26 +835,27 @@
           "s": "2-2",
           "w": "e",
           "live": false
-        }
-      ],
-      "next": [
+        },
         {
           "a": "Uruguay",
           "fa": "🇴🇱",
           "b": "Spain",
           "fb": "🇤🇲",
-          "date": "2026-06-27",
-          "time": "00:00"
+          "s": "0-1",
+          "w": "b",
+          "live": false
         },
         {
           "a": "Cape Verde Islands",
           "fa": "🇢🇯",
           "b": "Saudi Arabia",
           "fb": "🇪🇲",
-          "date": "2026-06-27",
-          "time": "00:00"
+          "s": "0-0",
+          "w": "e",
+          "live": false
         }
-      ]
+      ],
+      "next": []
     },
     {
       "id": "I",

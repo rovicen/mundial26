@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-27T22:58:03.531Z",
-  "fase": "Eliminatorias en curso",
+  "lastUpdated": "2026-06-28T02:51:20.544Z",
+  "fase": "Fase eliminatoria",
   "grupos": [
     {
       "id": "A",
@@ -814,7 +814,7 @@
           "a": "Saudi Arabia",
           "fa": "🇪🇲",
           "b": "Uruguay",
-          "fb": "🇴🇱",
+          "fb": "🇴🇸",
           "s": "1-1",
           "w": "e",
           "live": false
@@ -830,7 +830,7 @@
         },
         {
           "a": "Uruguay",
-          "fa": "🇴🇱",
+          "fa": "🇴🇸",
           "b": "Cape Verde Islands",
           "fb": "🇢🇯",
           "s": "2-2",
@@ -839,7 +839,7 @@
         },
         {
           "a": "Uruguay",
-          "fa": "🇴🇱",
+          "fa": "🇴🇸",
           "b": "Spain",
           "fb": "🇤🇲",
           "s": "0-1",
@@ -967,51 +967,51 @@
     },
     {
       "id": "J",
-      "state": "En curso",
+      "state": "Argentina ya clasificado",
       "teams": [
         {
           "n": "Argentina",
           "fl": "🇠🇱",
-          "pj": 2,
-          "g": 2,
+          "pj": 3,
+          "g": 3,
           "e": 0,
           "p": 0,
-          "dg": "+5",
-          "pts": 6,
-          "st": ""
+          "dg": "+6",
+          "pts": 9,
+          "st": "q"
         },
         {
           "n": "Austria",
           "fl": "🇠🇳",
-          "pj": 2,
-          "g": 1,
+          "pj": 3,
+          "g": 2,
           "e": 0,
           "p": 1,
-          "dg": "+0",
-          "pts": 3,
+          "dg": "+1",
+          "pts": 6,
           "st": ""
         },
         {
           "n": "Algeria",
           "fl": "🇠🇫",
-          "pj": 2,
+          "pj": 3,
           "g": 1,
           "e": 0,
-          "p": 1,
-          "dg": "-2",
+          "p": 2,
+          "dg": "-3",
           "pts": 3,
           "st": ""
         },
         {
           "n": "Jordan",
           "fl": "🇩🇮",
-          "pj": 2,
+          "pj": 3,
           "g": 0,
           "e": 0,
-          "p": 2,
-          "dg": "-3",
+          "p": 3,
+          "dg": "-4",
           "pts": 0,
-          "st": ""
+          "st": "e"
         }
       ],
       "res": [
@@ -1050,74 +1050,66 @@
           "s": "1-2",
           "w": "b",
           "live": false
-        }
-      ],
-      "next": [
+        },
         {
           "a": "Jordan",
           "fa": "🇩🇮",
           "b": "Argentina",
           "fb": "🇠🇱",
-          "date": "2026-06-28",
-          "time": "02:00"
-        },
-        {
-          "a": "Algeria",
-          "fa": "🇠🇫",
-          "b": "Austria",
-          "fb": "🇠🇳",
-          "date": "2026-06-28",
-          "time": "02:00"
+          "s": "0-2",
+          "w": "",
+          "live": true
         }
-      ]
+      ],
+      "next": []
     },
     {
       "id": "K",
-      "state": "En curso",
+      "state": "Colombia ya clasificado",
       "teams": [
         {
           "n": "Colombia",
           "fl": "🇢🇮",
-          "pj": 2,
+          "pj": 3,
           "g": 2,
-          "e": 0,
+          "e": 1,
           "p": 0,
           "dg": "+3",
-          "pts": 6,
-          "st": ""
+          "pts": 7,
+          "st": "q"
         },
         {
           "n": "Portugal",
           "fl": "🇯🇮",
-          "pj": 2,
+          "pj": 3,
           "g": 1,
-          "e": 1,
+          "e": 2,
           "p": 0,
           "dg": "+5",
-          "pts": 4,
+          "pts": 5,
           "st": ""
         },
         {
           "n": "Congo DR",
           "fl": "🇢🇮",
-          "pj": 2,
-          "g": 0,
+          "pj": 3,
+          "g": 1,
           "e": 1,
           "p": 1,
-          "dg": "-1",
-          "pts": 1,
+          "dg": "+1",
+          "pts": 4,
           "st": ""
         },
         {
           "n": "Uzbekistan",
           "fl": "🇴🇹",
-          "pj": 2,
+          "pj": 3,
           "g": 0,
           "e": 0,
-          "p": 2,
-          "dg": "-7",
+          "p": 3,
+          "dg": "-9",
           "pts": 0,
-          "st": ""
+          "st": "e"
         }
       ],
       "res": [
@@ -1156,26 +1148,27 @@
           "s": "1-0",
           "w": "a",
           "live": false
-        }
-      ],
-      "next": [
+        },
         {
           "a": "Colombia",
           "fa": "🇢🇮",
           "b": "Portugal",
           "fb": "🇯🇮",
-          "date": "2026-06-27",
-          "time": "23:30"
+          "s": "0-0",
+          "w": "e",
+          "live": false
         },
         {
           "a": "Congo DR",
           "fa": "🇢🇮",
           "b": "Uzbekistan",
           "fb": "🇴🇹",
-          "date": "2026-06-27",
-          "time": "23:30"
+          "s": "3-1",
+          "w": "a",
+          "live": false
         }
-      ]
+      ],
+      "next": []
     },
     {
       "id": "L",
@@ -1269,8 +1262,8 @@
           "b": "England",
           "fb": "🇦🇡",
           "s": "0-2",
-          "w": "",
-          "live": true
+          "w": "b",
+          "live": false
         },
         {
           "a": "Croatia",
@@ -1278,8 +1271,8 @@
           "b": "Ghana",
           "fb": "🇦🇧",
           "s": "2-1",
-          "w": "",
-          "live": true
+          "w": "a",
+          "live": false
         }
       ],
       "next": []
@@ -1543,15 +1536,15 @@
       "goals": 3
     },
     {
-      "n": "Harry Kane",
-      "team": "England",
-      "fl": "🇦🇡",
+      "n": "Yoane Wissa",
+      "team": "Congo DR",
+      "fl": "🇢🇮",
       "goals": 3
     },
     {
-      "n": "Johan Manzambi",
-      "team": "Switzerland",
-      "fl": "🇲🇴",
+      "n": "Harry Kane",
+      "team": "England",
+      "fl": "🇦🇡",
       "goals": 3
     }
   ]

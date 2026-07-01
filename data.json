@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T16:21:34.334Z",
+  "lastUpdated": "2026-07-01T19:44:42.422Z",
   "fase": "Fase eliminatoria",
   "grupos": [
     {
@@ -1515,6 +1515,12 @@
       "goals": 5
     },
     {
+      "n": "Harry Kane",
+      "team": "England",
+      "fl": "🇦🇡",
+      "goals": 5
+    },
+    {
       "n": "Vinicius Junior",
       "team": "Brazil",
       "fl": "🇡🇱",
@@ -1548,12 +1554,6 @@
       "n": "Deniz Undav",
       "team": "Germany",
       "fl": "🇦🇤",
-      "goals": 3
-    },
-    {
-      "n": "Elijah Just",
-      "team": "New Zealand",
-      "fl": "🇭🇹",
       "goals": 3
     }
   ]

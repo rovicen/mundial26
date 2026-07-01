@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T23:05:37.526Z",
+  "lastUpdated": "2026-07-01T02:51:49.446Z",
   "fase": "Fase eliminatoria",
   "grupos": [
     {
@@ -1527,6 +1527,12 @@
       "goals": 4
     },
     {
+      "n": "Julián Quiñones",
+      "team": "Mexico",
+      "fl": "🇬🇷",
+      "goals": 3
+    },
+    {
       "n": "Ismael Saibari",
       "team": "Morocco",
       "fl": "🇬🇠",
@@ -1548,12 +1554,6 @@
       "n": "Elijah Just",
       "team": "New Zealand",
       "fl": "🇭🇹",
-      "goals": 3
-    },
-    {
-      "n": "Yoane Wissa",
-      "team": "Congo DR",
-      "fl": "🇢🇮",
       "goals": 3
     }
   ]

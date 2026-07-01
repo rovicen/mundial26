@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T02:51:49.446Z",
+  "lastUpdated": "2026-07-01T08:06:14.927Z",
   "fase": "Fase eliminatoria",
   "grupos": [
     {
@@ -1305,8 +1305,8 @@
         {
           "a": "Paraguay",
           "fa": "🇯🇠",
-          "b": null,
-          "fb": "",
+          "b": "France",
+          "fb": "🇥🇱",
           "s": "",
           "w": "",
           "date": "2026-07-04",
@@ -1316,8 +1316,8 @@
         {
           "a": "Brazil",
           "fa": "🇡🇱",
-          "b": null,
-          "fb": "",
+          "b": "Norway",
+          "fb": "🇭🇮",
           "s": "",
           "w": "",
           "date": "2026-07-05",

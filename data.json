@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T19:15:26.280Z",
+  "lastUpdated": "2026-07-02T20:58:09.169Z",
   "fase": "Fase eliminatoria",
   "grupos": [
     {
@@ -1527,6 +1527,12 @@
       "goals": 4
     },
     {
+      "n": "Mikel Oyarzabal",
+      "team": "Spain",
+      "fl": "🇤🇲",
+      "goals": 4
+    },
+    {
       "n": "Ousmane Dembélé",
       "team": "France",
       "fl": "🇥🇱",
@@ -1548,12 +1554,6 @@
       "n": "Folarin Balogun",
       "team": "United States",
       "fl": "🇴🇲",
-      "goals": 3
-    },
-    {
-      "n": "Ismael Saibari",
-      "team": "Morocco",
-      "fl": "🇬🇠",
       "goals": 3
     }
   ]

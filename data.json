@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T20:57:33.373Z",
+  "lastUpdated": "2026-07-03T22:57:04.519Z",
   "fase": "Fase eliminatoria",
   "grupos": [
     {
@@ -1497,15 +1497,15 @@
   ],
   "scorers": [
     {
-      "n": "Kylian Mbappé",
-      "team": "France",
-      "fl": "🇥🇱",
-      "goals": 6
-    },
-    {
       "n": "Lionel Messi",
       "team": "Argentina",
       "fl": "🇠🇱",
+      "goals": 7
+    },
+    {
+      "n": "Kylian Mbappé",
+      "team": "France",
+      "fl": "🇥🇱",
       "goals": 6
     },
     {

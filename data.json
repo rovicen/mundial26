@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T20:48:37.389Z",
+  "lastUpdated": "2026-07-04T22:52:36.197Z",
   "fase": "Fase eliminatoria",
   "grupos": [
     {
@@ -1307,11 +1307,11 @@
           "fa": "🇯🇠",
           "b": "France",
           "fb": "🇥🇱",
-          "s": "",
+          "s": "0-1",
           "w": "",
           "date": "2026-07-04",
           "time": "21:00",
-          "live": false
+          "live": true
         },
         {
           "a": "Brazil",
@@ -1497,16 +1497,16 @@
   ],
   "scorers": [
     {
+      "n": "Kylian Mbappé",
+      "team": "France",
+      "fl": "🇥🇱",
+      "goals": 7
+    },
+    {
       "n": "Lionel Messi",
       "team": "Argentina",
       "fl": "🇠🇱",
       "goals": 7
-    },
-    {
-      "n": "Kylian Mbappé",
-      "team": "France",
-      "fl": "🇥🇱",
-      "goals": 6
     },
     {
       "n": "Erling Haaland",

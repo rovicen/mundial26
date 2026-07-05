@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T20:51:48.292Z",
+  "lastUpdated": "2026-07-05T22:57:00.971Z",
   "fase": "Fase eliminatoria",
   "grupos": [
     {
@@ -1318,11 +1318,11 @@
           "fa": "🇡🇱",
           "b": "Norway",
           "fb": "🇭🇮",
-          "s": "0-0",
-          "w": "",
+          "s": "1-2",
+          "w": "b",
           "date": "2026-07-05",
           "time": "20:00",
-          "live": true
+          "live": false
         },
         {
           "a": "Mexico",
@@ -1503,16 +1503,16 @@
       "goals": 7
     },
     {
+      "n": "Erling Haaland",
+      "team": "Norway",
+      "fl": "🇭🇮",
+      "goals": 7
+    },
+    {
       "n": "Lionel Messi",
       "team": "Argentina",
       "fl": "🇠🇱",
       "goals": 7
-    },
-    {
-      "n": "Erling Haaland",
-      "team": "Norway",
-      "fl": "🇭🇮",
-      "goals": 5
     },
     {
       "n": "Harry Kane",

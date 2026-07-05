@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T22:52:36.197Z",
+  "lastUpdated": "2026-07-05T02:31:36.088Z",
   "fase": "Fase eliminatoria",
   "grupos": [
     {
@@ -1308,10 +1308,10 @@
           "b": "France",
           "fb": "🇥🇱",
           "s": "0-1",
-          "w": "",
+          "w": "b",
           "date": "2026-07-04",
           "time": "21:00",
-          "live": true
+          "live": false
         },
         {
           "a": "Brazil",

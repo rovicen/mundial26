@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T19:47:30.079Z",
+  "lastUpdated": "2026-07-06T21:24:00.298Z",
   "fase": "Fase eliminatoria",
   "grupos": [
     {
@@ -1340,8 +1340,8 @@
           "fa": "🇯🇮",
           "b": "Spain",
           "fb": "🇤🇲",
-          "s": "",
-          "w": "",
+          "s": "0-1",
+          "w": "b",
           "date": "2026-07-06",
           "time": "19:00",
           "live": false

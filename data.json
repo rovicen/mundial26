@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T02:35:50.275Z",
+  "lastUpdated": "2026-07-06T08:14:45.757Z",
   "fase": "Fase eliminatoria",
   "grupos": [
     {
@@ -1329,11 +1329,11 @@
           "fa": "🇬🇷",
           "b": "England",
           "fb": "🇦🇡",
-          "s": "1-3",
-          "w": "",
+          "s": "2-3",
+          "w": "b",
           "date": "2026-07-06",
           "time": "01:00",
-          "live": true
+          "live": false
         },
         {
           "a": "Portugal",
@@ -1408,10 +1408,10 @@
           "live": false
         },
         {
-          "a": null,
-          "fa": "",
-          "b": null,
-          "fb": "",
+          "a": "Norway",
+          "fa": "🇭🇮",
+          "b": "England",
+          "fb": "🇦🇡",
           "s": "",
           "w": "",
           "date": "2026-07-11",

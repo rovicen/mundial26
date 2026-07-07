@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T17:54:15.795Z",
+  "lastUpdated": "2026-07-07T19:46:20.544Z",
   "fase": "Fase eliminatoria",
   "grupos": [
     {
@@ -1362,11 +1362,11 @@
           "fa": "🇠🇱",
           "b": "Egypt",
           "fb": "🇤🇦",
-          "s": "2-2",
-          "w": "",
+          "s": "3-2",
+          "w": "a",
           "date": "2026-07-07",
           "time": "16:00",
-          "live": true
+          "live": false
         },
         {
           "a": "Switzerland",

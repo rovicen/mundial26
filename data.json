@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T21:17:10.769Z",
+  "lastUpdated": "2026-07-09T23:05:52.094Z",
   "fase": "Fase eliminatoria",
   "grupos": [
     {
@@ -1390,11 +1390,11 @@
           "fa": "🇥🇱",
           "b": "Morocco",
           "fb": "🇬🇠",
-          "s": "0-0",
-          "w": "",
+          "s": "2-0",
+          "w": "a",
           "date": "2026-07-09",
           "time": "20:00",
-          "live": true
+          "live": false
         },
         {
           "a": "Spain",
@@ -1497,16 +1497,16 @@
   ],
   "scorers": [
     {
+      "n": "Kylian Mbappé",
+      "team": "France",
+      "fl": "🇥🇱",
+      "goals": 8
+    },
+    {
       "n": "Lionel Messi",
       "team": "Argentina",
       "fl": "🇠🇱",
       "goals": 8
-    },
-    {
-      "n": "Kylian Mbappé",
-      "team": "France",
-      "fl": "🇥🇱",
-      "goals": 7
     },
     {
       "n": "Erling Haaland",
@@ -1519,6 +1519,12 @@
       "team": "England",
       "fl": "🇦🇡",
       "goals": 6
+    },
+    {
+      "n": "Ousmane Dembélé",
+      "team": "France",
+      "fl": "🇥🇱",
+      "goals": 5
     },
     {
       "n": "Julián Quiñones",
@@ -1542,12 +1548,6 @@
       "n": "Mikel Oyarzabal",
       "team": "Spain",
       "fl": "🇤🇲",
-      "goals": 4
-    },
-    {
-      "n": "Ousmane Dembélé",
-      "team": "France",
-      "fl": "🇥🇱",
       "goals": 4
     },
     {

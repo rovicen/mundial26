@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T19:28:30.302Z",
+  "lastUpdated": "2026-07-09T21:17:10.769Z",
   "fase": "Fase eliminatoria",
   "grupos": [
     {
@@ -1390,11 +1390,11 @@
           "fa": "🇥🇱",
           "b": "Morocco",
           "fb": "🇬🇠",
-          "s": "",
+          "s": "0-0",
           "w": "",
           "date": "2026-07-09",
           "time": "20:00",
-          "live": false
+          "live": true
         },
         {
           "a": "Spain",

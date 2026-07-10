@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T02:25:01.396Z",
+  "lastUpdated": "2026-07-10T07:30:00.935Z",
   "fase": "Fase eliminatoria",
   "grupos": [
     {
@@ -1436,8 +1436,8 @@
       "round": "Semifinales",
       "matches": [
         {
-          "a": null,
-          "fa": "",
+          "a": "France",
+          "fa": "🇥🇱",
           "b": null,
           "fb": "",
           "s": "",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T17:43:02.063Z",
+  "lastUpdated": "2026-07-10T19:19:37.050Z",
   "fase": "Fase eliminatoria",
   "grupos": [
     {
@@ -1401,11 +1401,11 @@
           "fa": "🇤🇲",
           "b": "Belgium",
           "fb": "🇡🇤",
-          "s": "",
+          "s": "0-0",
           "w": "",
           "date": "2026-07-10",
           "time": "19:00",
-          "live": false
+          "live": true
         },
         {
           "a": "Norway",

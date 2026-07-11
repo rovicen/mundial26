@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T20:41:00.808Z",
+  "lastUpdated": "2026-07-11T22:40:29.853Z",
   "fase": "Fase eliminatoria",
   "grupos": [
     {
@@ -1329,8 +1329,8 @@
           "fa": "🇬🇷",
           "b": "England",
           "fb": "🇦🇡",
-          "s": "2-3",
-          "w": "b",
+          "s": "",
+          "w": "",
           "date": "2026-07-06",
           "time": "01:00",
           "live": false
@@ -1412,11 +1412,11 @@
           "fa": "🇭🇮",
           "b": "England",
           "fb": "🇦🇡",
-          "s": "",
+          "s": "2-1",
           "w": "",
           "date": "2026-07-11",
           "time": "21:00",
-          "live": false
+          "live": true
         },
         {
           "a": "Argentina",
@@ -1521,6 +1521,12 @@
       "goals": 6
     },
     {
+      "n": "Jude Bellingham",
+      "team": "England",
+      "fl": "🇦🇡",
+      "goals": 5
+    },
+    {
       "n": "Ousmane Dembélé",
       "team": "France",
       "fl": "🇥🇱",
@@ -1536,12 +1542,6 @@
       "n": "Vinicius Junior",
       "team": "Brazil",
       "fl": "🇡🇱",
-      "goals": 4
-    },
-    {
-      "n": "Jude Bellingham",
-      "team": "England",
-      "fl": "🇦🇡",
       "goals": 4
     },
     {

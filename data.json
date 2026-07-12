@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T02:06:38.146Z",
+  "lastUpdated": "2026-07-12T06:28:15.391Z",
   "fase": "Fase eliminatoria",
   "grupos": [
     {
@@ -1329,8 +1329,8 @@
           "fa": "🇬🇷",
           "b": "England",
           "fb": "🇦🇡",
-          "s": "",
-          "w": "",
+          "s": "2-3",
+          "w": "b",
           "date": "2026-07-06",
           "time": "01:00",
           "live": false
@@ -1423,11 +1423,11 @@
           "fa": "🇠🇱",
           "b": "Switzerland",
           "fb": "🇲🇴",
-          "s": "1-0",
-          "w": "",
+          "s": "3-1",
+          "w": "a",
           "date": "2026-07-12",
           "time": "01:00",
-          "live": true
+          "live": false
         }
       ],
       "dates": ""
@@ -1447,10 +1447,10 @@
           "live": false
         },
         {
-          "a": null,
-          "fa": "",
-          "b": null,
-          "fb": "",
+          "a": "England",
+          "fa": "🇦🇡",
+          "b": "Argentina",
+          "fb": "🇠🇱",
           "s": "",
           "w": "",
           "date": "2026-07-15",

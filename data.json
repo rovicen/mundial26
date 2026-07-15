@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T20:52:58.414Z",
+  "lastUpdated": "2026-07-15T22:53:20.913Z",
   "fase": "Fase eliminatoria",
   "grupos": [
     {
@@ -1451,11 +1451,11 @@
           "fa": "🇦🇡",
           "b": "Argentina",
           "fb": "🇠🇱",
-          "s": "1-1",
-          "w": "",
+          "s": "1-2",
+          "w": "b",
           "date": "2026-07-15",
           "time": "19:00",
-          "live": true
+          "live": false
         }
       ],
       "dates": ""

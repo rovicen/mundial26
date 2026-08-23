@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-08-23T04:30:00.597Z",
+  "lastUpdated": "2026-08-23T06:29:36.260Z",
   "fase": "Fase eliminatoria",
   "grupos": [
     {
       "id": "A",
-      "state": "En curso",
+      "state": "Mexico ya clasificado",
       "teams": [
         {
           "n": "Mexico",
@@ -15,7 +15,7 @@
           "p": 0,
           "dg": "+6",
           "pts": 9,
-          "st": ""
+          "st": "q"
         },
         {
           "n": "South Africa",
@@ -48,7 +48,7 @@
           "p": 2,
           "dg": "-4",
           "pts": 1,
-          "st": ""
+          "st": "e"
         }
       ],
       "res": [
@@ -111,7 +111,7 @@
     },
     {
       "id": "B",
-      "state": "En curso",
+      "state": "Switzerland ya clasificado",
       "teams": [
         {
           "n": "Switzerland",
@@ -122,7 +122,7 @@
           "p": 0,
           "dg": "+4",
           "pts": 7,
-          "st": ""
+          "st": "q"
         },
         {
           "n": "Canada",
@@ -155,7 +155,7 @@
           "p": 2,
           "dg": "-8",
           "pts": 1,
-          "st": ""
+          "st": "e"
         }
       ],
       "res": [
@@ -218,7 +218,7 @@
     },
     {
       "id": "C",
-      "state": "En curso",
+      "state": "Brazil ya clasificado",
       "teams": [
         {
           "n": "Brazil",
@@ -229,7 +229,7 @@
           "p": 0,
           "dg": "+6",
           "pts": 7,
-          "st": ""
+          "st": "q"
         },
         {
           "n": "Morocco",
@@ -262,7 +262,7 @@
           "p": 3,
           "dg": "-6",
           "pts": 0,
-          "st": ""
+          "st": "e"
         }
       ],
       "res": [
@@ -325,7 +325,7 @@
     },
     {
       "id": "D",
-      "state": "En curso",
+      "state": "United States ya clasificado",
       "teams": [
         {
           "n": "United States",
@@ -336,7 +336,7 @@
           "p": 1,
           "dg": "+4",
           "pts": 6,
-          "st": ""
+          "st": "q"
         },
         {
           "n": "Australia",
@@ -369,7 +369,7 @@
           "p": 2,
           "dg": "-2",
           "pts": 3,
-          "st": ""
+          "st": "e"
         }
       ],
       "res": [
@@ -432,7 +432,7 @@
     },
     {
       "id": "E",
-      "state": "En curso",
+      "state": "Germany ya clasificado",
       "teams": [
         {
           "n": "Germany",
@@ -443,7 +443,7 @@
           "p": 1,
           "dg": "+6",
           "pts": 6,
-          "st": ""
+          "st": "q"
         },
         {
           "n": "Ivory Coast",
@@ -476,7 +476,7 @@
           "p": 2,
           "dg": "-8",
           "pts": 1,
-          "st": ""
+          "st": "e"
         }
       ],
       "res": [
@@ -539,7 +539,7 @@
     },
     {
       "id": "F",
-      "state": "En curso",
+      "state": "Netherlands ya clasificado",
       "teams": [
         {
           "n": "Netherlands",
@@ -550,7 +550,7 @@
           "p": 0,
           "dg": "+6",
           "pts": 7,
-          "st": ""
+          "st": "q"
         },
         {
           "n": "Japan",
@@ -583,7 +583,7 @@
           "p": 3,
           "dg": "-10",
           "pts": 0,
-          "st": ""
+          "st": "e"
         }
       ],
       "res": [
@@ -646,51 +646,51 @@
     },
     {
       "id": "G",
-      "state": "En curso",
+      "state": "Mexico ya clasificado",
       "teams": [
         {
-          "n": "Belgium",
-          "fl": "🇡🇤",
+          "n": "Mexico",
+          "fl": "🇬🇷",
+          "pj": 3,
+          "g": 3,
+          "e": 0,
+          "p": 0,
+          "dg": "+6",
+          "pts": 9,
+          "st": "q"
+        },
+        {
+          "n": "South Africa",
+          "fl": "🇱🇲",
           "pj": 3,
           "g": 1,
-          "e": 2,
-          "p": 0,
-          "dg": "+4",
-          "pts": 5,
+          "e": 1,
+          "p": 1,
+          "dg": "-1",
+          "pts": 4,
           "st": ""
         },
         {
-          "n": "Egypt",
-          "fl": "🇤🇦",
+          "n": "South Korea",
+          "fl": "🇪🇱",
           "pj": 3,
           "g": 1,
-          "e": 2,
-          "p": 0,
-          "dg": "+2",
-          "pts": 5,
-          "st": ""
-        },
-        {
-          "n": "Iran",
-          "fl": "🇨🇱",
-          "pj": 3,
-          "g": 0,
-          "e": 3,
-          "p": 0,
-          "dg": "+0",
+          "e": 0,
+          "p": 2,
+          "dg": "-1",
           "pts": 3,
           "st": ""
         },
         {
-          "n": "New Zealand",
-          "fl": "🇭🇹",
+          "n": "Czechia",
+          "fl": "🇢🇹",
           "pj": 3,
           "g": 0,
           "e": 1,
           "p": 2,
-          "dg": "-6",
+          "dg": "-4",
           "pts": 1,
-          "st": ""
+          "st": "e"
         }
       ],
       "res": [
@@ -753,7 +753,7 @@
     },
     {
       "id": "H",
-      "state": "En curso",
+      "state": "Spain ya clasificado",
       "teams": [
         {
           "n": "Spain",
@@ -764,7 +764,7 @@
           "p": 0,
           "dg": "+5",
           "pts": 7,
-          "st": ""
+          "st": "q"
         },
         {
           "n": "Cape Verde Islands",
@@ -797,7 +797,7 @@
           "p": 1,
           "dg": "-4",
           "pts": 2,
-          "st": ""
+          "st": "e"
         }
       ],
       "res": [
@@ -860,7 +860,7 @@
     },
     {
       "id": "I",
-      "state": "En curso",
+      "state": "France ya clasificado",
       "teams": [
         {
           "n": "France",
@@ -871,7 +871,7 @@
           "p": 0,
           "dg": "+8",
           "pts": 9,
-          "st": ""
+          "st": "q"
         },
         {
           "n": "Norway",
@@ -904,7 +904,7 @@
           "p": 3,
           "dg": "-11",
           "pts": 0,
-          "st": ""
+          "st": "e"
         }
       ],
       "res": [
@@ -967,7 +967,7 @@
     },
     {
       "id": "J",
-      "state": "En curso",
+      "state": "Argentina ya clasificado",
       "teams": [
         {
           "n": "Argentina",
@@ -978,7 +978,7 @@
           "p": 0,
           "dg": "+7",
           "pts": 9,
-          "st": ""
+          "st": "q"
         },
         {
           "n": "Austria",
@@ -1011,7 +1011,7 @@
           "p": 3,
           "dg": "-5",
           "pts": 0,
-          "st": ""
+          "st": "e"
         }
       ],
       "res": [
@@ -1074,7 +1074,7 @@
     },
     {
       "id": "K",
-      "state": "En curso",
+      "state": "Colombia ya clasificado",
       "teams": [
         {
           "n": "Colombia",
@@ -1085,7 +1085,7 @@
           "p": 0,
           "dg": "+3",
           "pts": 7,
-          "st": ""
+          "st": "q"
         },
         {
           "n": "Portugal",
@@ -1118,7 +1118,7 @@
           "p": 3,
           "dg": "-9",
           "pts": 0,
-          "st": ""
+          "st": "e"
         }
       ],
       "res": [
@@ -1181,7 +1181,7 @@
     },
     {
       "id": "L",
-      "state": "En curso",
+      "state": "England ya clasificado",
       "teams": [
         {
           "n": "England",
@@ -1192,7 +1192,7 @@
           "p": 0,
           "dg": "+4",
           "pts": 7,
-          "st": ""
+          "st": "q"
         },
         {
           "n": "Croatia",
@@ -1225,7 +1225,7 @@
           "p": 3,
           "dg": "-4",
           "pts": 0,
-          "st": ""
+          "st": "e"
         }
       ],
       "res": [
